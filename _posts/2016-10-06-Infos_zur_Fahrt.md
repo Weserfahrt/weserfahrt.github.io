@@ -1,5 +1,5 @@
 ---
-title: "Erste Infos zur Fahrt"
+title: "Infos zur Fahrt"
 background: bg2.jpg
 ---
 Unter dem Motto: Kurs Nord veranstaltet der LKV Niedersachsen die  1. Internationale – Weserfahrt.
