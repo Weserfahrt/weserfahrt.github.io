@@ -1,11 +1,10 @@
-/* 
- * ===============================================================
+/* ===============================================================
  * ON DOCUMENT READY
  * ===============================================================
  */
 function initialise_document_ready_functions()
 {
-    // background_settings.change_on_mobile = true; // uncomment to enable background change on mobile
+    background_settings.change_on_mobile = true; // comment to disable background change on mobile
 
     // useful variables (used in other functions)
     var section_wrappers = get_all_section_wrappers_in_page(); // get all the section wrappers in the page

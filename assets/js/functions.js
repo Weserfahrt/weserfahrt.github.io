@@ -1276,3 +1276,10 @@ function tabs_uniform_height()
         panes.css({ 'min-height': max_height+'px' });
     }
 }
+
+function change_bg_on_slide(img) {
+    var section_custom_background = img;
+    var transition_speed = 550; // crossfading speed should be faster when function called on scroll
+    $.vegas({ src:section_custom_background, fade:transition_speed, });
+    $.vegas('overlay', { src:'assets/images/theme_images/background-image-overlay-full.png', opacity:overlay_opacity });
+}
