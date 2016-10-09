@@ -2,7 +2,7 @@
 title: "Infos zur Fahrt"
 background: bg2.jpg
 ---
-##Erste Infos zur Fahrt##
+#Erste Infos zur Fahrt#
 Unter dem Motto: Kurs Nord veranstaltet der LKV Niedersachsen die  1. Internationale – Weserfahrt.
 Die eigene Anreise nach Hann. Münden erfolgt am Samstag, 15.07.2017 bis 13:00 Uhr.
 
