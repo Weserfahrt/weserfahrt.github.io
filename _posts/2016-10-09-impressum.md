@@ -14,6 +14,7 @@ E-Mail: info@lkv-nds.de
 Internet: www.lkv-nds.de
 
 Vorstand i.S.d. Vereinsrechts:
+
 - Dr. Albert Emmerich (Präsident),
 - Torsten Ellenberg,
 - Hans-Ulrich Sonntag
