@@ -13,11 +13,12 @@ Telefax: +49 (511) 4584349
 E-Mail: info@lkv-nds.de  
 Internet: www.lkv-nds.de
 
-Vorstand i.S.d. Vereinsrechts:
+Vertreten durch:
 
-- Dr. Albert Emmerich (Präsident),
-- Torsten Ellenberg,
-- Hans-Ulrich Sonntag
+Dr. Albert Emmerich
+
+Registereintrag:
+Eintragung im Vereinsregister.
 
 Registergericht: AG Hannover  
 Registernummer: VR 3370
