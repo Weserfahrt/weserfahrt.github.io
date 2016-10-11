@@ -14,7 +14,6 @@ E-Mail: info@lkv-nds.de
 Internet: www.lkv-nds.de
 
 ###### Vertreten durch:
-
 Dr. Albert Emmerich
 
 
