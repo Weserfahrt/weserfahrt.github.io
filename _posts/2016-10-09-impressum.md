@@ -3,7 +3,7 @@ title: "Impressum"
 background: bg2.jpg
 ---
 
-## Landes-Kanu-Verband Niedersachsen e.V.
+### Landes-Kanu-Verband Niedersachsen e.V.
 Rosenbuschweg 9b  
 D-30453 Hannover
 
@@ -16,6 +16,7 @@ Internet: www.lkv-nds.de
 Vertreten durch:
 
 Dr. Albert Emmerich
+
 Registereintrag:
 Eintragung im Vereinsregister.
 Registergericht: AG Hannover  
