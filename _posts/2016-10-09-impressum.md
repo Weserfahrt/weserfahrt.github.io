@@ -1,6 +1,6 @@
 ---
 title: "Impressum"
-background: bg2.jpg
+background: bg3.jpg
 ---
 
 #### Landes-Kanu-Verband Niedersachsen e.V.
