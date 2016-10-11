@@ -18,6 +18,7 @@ Vertreten durch:
 Dr. Albert Emmerich
 
 Registereintrag:
+
 Eintragung im Vereinsregister.
 Registergericht: AG Hannover  
 Registernummer: VR 3370
