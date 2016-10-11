@@ -13,7 +13,7 @@ Telefax: +49 (511) 4584349
 E-Mail: info@lkv-nds.de  
 Internet: www.lkv-nds.de
 
-Vertreten durch:
+##### Vertreten durch:
 
 Dr. Albert Emmerich
 
