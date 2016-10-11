@@ -18,9 +18,8 @@ Dr. Albert Emmerich
 
 
 ###### Registereintrag:
-Registergericht: AG Hannover
-
-Registernummer: VR 3370
+>Registergericht: AG Hannover
+>Registernummer: VR 3370
 
 ###### Inhaltlich Verantwortlicher iSd. § 55 II RStV:
 Gerd Bode (Anschrift s.o.)
