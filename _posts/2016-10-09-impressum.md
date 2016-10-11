@@ -21,3 +21,9 @@ Registernummer: VR 3370
 ###### Inhaltlich Verantwortlicher iSd. § 55 II RStV:    
 Gerd Bode (Anschrift s.o.)
 
+###### Technische Realisation:
+Mathias Göbel (Anschrift wie oben)
+
+
+
+
