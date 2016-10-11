@@ -19,6 +19,7 @@ Dr. Albert Emmerich
 
 ###### Registereintrag:
 Registergericht: AG Hannover
+
 Registernummer: VR 3370
 
 ###### Inhaltlich Verantwortlicher iSd. § 55 II RStV:
