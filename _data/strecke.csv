@@ -1,5 +1,5 @@
 tag,datum,abfahrt,ziel,strecke,bemerkung,verein
-Anreise,15.07.17,Hann. Münden,Hann. Münden,keine ,Die Anreise der Teilnehmer sollte bis 13 Uhr erfolgen. Nach dem Aufbau der Zelte findet gegen .. Uhr eine Stadtbesichtigung statt.,Mündener Kanu-Club
+0,15.07.17,Hann. Münden,Hann. Münden,keine ,Die Anreise der Teilnehmer sollte bis 13 Uhr erfolgen. Nach dem Aufbau der Zelte findet gegen .. Uhr eine Stadtbesichtigung statt.,Mündener Kanu-Club
 1,16.07.17,Hann. Münden,Gieselwerder,29,,Campingplatz Gieselwerder
 2,17.07.17,Gieselwerder,Höxter,40,,Wassersport Höxter
 3,18.07.17,Höxter,Rühle,40,,Campingplatz Rühler Schweiz
@@ -10,5 +10,7 @@ Anreise,15.07.17,Hann. Münden,Hann. Münden,keine ,Die Anreise der Teilnehmer s
 8,23.07.17,Minden,Minden,0,Ruhetag,Kanu-Klub Minden und TV Jahn
 9,24.07.17,Minden,Landesbergen,46,,Wassersportverein Landesbergen
 10,25.07.17,Landesbergen,Hoya,49,,Wassersportverein Hoya
-11,26.07.17,Hoya,Drosselhof,35,,Campingplatz Drosselhof 
-12,27.07.17,Drosselhof,Bremen-Hastedt,31,,Bremer Kanuwanderer
+11,26.07.17,Hoya,Drosselhof,35,,Campingplatz Drosselhof
+12,27.07.17,Hoya,Drosselhof,35,,Campingplatz Drosselhof
+13,28.07.17,Bremen,Rönnebeck,31,,KC Rönnebeck
+14,29.07.17,Rönnebeck,Nordenham,33,,WSV Nordenham
