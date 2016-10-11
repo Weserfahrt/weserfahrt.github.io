@@ -17,13 +17,13 @@ Internet: www.lkv-nds.de
 Dr. Albert Emmerich
 
 
-Registereintrag:
+###### Registereintrag:
 
 Registergericht: AG Hannover
 
 Registernummer: VR 3370
 
-Inhaltlich Verantwortlicher iSd. § 55 II RStV:
+###### Inhaltlich Verantwortlicher iSd. § 55 II RStV:
 
 Gerd Bode (Anschrift s.o.)
 
