@@ -13,13 +13,17 @@ Telefax: +49 (511) 4584349
 E-Mail: info@lkv-nds.de  
 Internet: www.lkv-nds.de
 
-###### Vertreten durch:  
+###### Vertreten durch:
+
 Dr. Albert Emmerich (Anschrift s.o.)
 ###### Registereintrag:
+
 Registergericht: AG Hannover  
 Registernummer: VR 3370
-###### Inhaltlich Verantwortlicher iSd. § 55 II RStV:    
+###### Inhaltlich Verantwortlicher iSd. § 55 II RStV: 
+
 Gerd Bode (Anschrift s.o.)
+
 ###### Technische Realisation:
 Mathias Göbel (Anschrift s.o.)
 
