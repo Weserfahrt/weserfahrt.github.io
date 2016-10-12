@@ -1,5 +1,5 @@
 Gestartet wird gemeinsam vom Gelände des Mündener Kanuclubs auf der Fulda, danach links halten und nach ca. 1 km die Schleuse befahren (Bootsrutsche nicht empfehlenswert).Die ersten Meter paddelt man noch auf der Fulda, bevor man unterhalb des Wesersteins links in die Weser einbiegt. 
-*Km 1,2 links: Jugendherberge Hann. Münden
+-Km 1,2 links: Jugendherberge Hann. Münden
 -Km 2,2 rechts: Anleger in Gimte, kleiner Naturstrand. Sehenswert im Ort die Marienkirche
 -Km 3,5 links: ehemaliges Klostergut Hilkwartshausen, links die Hänge des hessischen Reinhardswalds rechts der niedersächsische Bramwald.
 -Km 10 links: Reinhardshagen 
