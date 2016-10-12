@@ -1,6 +1,6 @@
 ---
 title: "Anmeldung"
-background: bg2.jpg
+background: bg6.jpg
 ---
 Anmeldungen sind hier ab 01.März 2017 möglich.
 
