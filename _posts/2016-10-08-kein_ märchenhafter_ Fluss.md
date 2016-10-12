@@ -1,6 +1,6 @@
 ---
 title: "Ein märchenhafter Fluss"
-background:bg4.jpg
+background: bg4.jpg
 ---
 
 # Gedanken über einen Fluss
