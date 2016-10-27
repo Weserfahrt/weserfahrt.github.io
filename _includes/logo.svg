@@ -147,16 +147,16 @@ viewBox="0 0 14800 21000"
   <text x="8359" y="10089"  class="fil3 fnt2">- Nordenham</text>
   <text x="10121" y="10799"  class="fil3 fnt2">425 km</text>
   <g style="clip-path:url(#id0)">
-   <image id="lkv_logo.jpg" style="filter:url(#blur)" x="9307" y="11519" width="2062" height="2506" xlink:href="assets/images/other_images/niedersachsen-small.png"/>
+   <image id="lkv_logo.jpg" style="filter:url(#blur5)" x="9307" y="11519" width="2062" height="2506" xlink:href="assets/images/other_images/niedersachsen-small.png"/>
   </g>
   <g style="clip-path:url(#id1)">
-   <image id="logo_x0020_kanu-verband_x0020_hessen.jpg" x="3628" y="12385" width="3671" height="2230" xlink:href="assets/images/other_images/hessen-small.png"/>
+   <image id="logo_x0020_kanu-verband_x0020_hessen.jpg" style="filter:url(#blur5)" x="3628" y="12385" width="3671" height="2230" xlink:href="assets/images/other_images/hessen-small.png"/>
   </g>
   <g style="clip-path:url(#id2)">
-   <image id="logo_x0020_kanu-verband_x0020_nrw.jpg" x="2345" y="9174" width="3576" height="2440" xlink:href="assets/images/other_images/nrw.png"/>
+   <image id="logo_x0020_kanu-verband_x0020_nrw.jpg" style="filter:url(#blur5)" x="2345" y="9174" width="3576" height="2440" xlink:href="assets/images/other_images/nrw.png"/>
   </g>
   <g style="clip-path:url(#id3)">
-   <image id="LKV-Aufkleber_bremen.jpg" x="8270" y="6151" width="1973" height="1973" xlink:href="assets/images/other_images/bremen-small.png"/>
+   <image id="LKV-Aufkleber_bremen.jpg" style="filter:url(#blur5)" x="8270" y="6151" width="1973" height="1973" xlink:href="assets/images/other_images/bremen-small.png"/>
   </g>
  </g>
   <filter id="blur2">
