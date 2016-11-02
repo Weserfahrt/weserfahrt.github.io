@@ -1,6 +1,6 @@
 ---
 title: "Infos zur Fahrt"
-background: bg8.jpg
+background: bg2.jpg
 ---
 Unter dem Motto "Von den Bergen bis ans Meer" organisiert der LKV Niedersachsen in Zusammenarbeit mit den benachbarten Kanu-Verbänden die 1.Internationale Weserfahrt.
 Die Anreise der Teilnehmer nach Hann. Münden erfolgt am Samstag, 15. Juli 2017 bis 13:00 Uhr.
