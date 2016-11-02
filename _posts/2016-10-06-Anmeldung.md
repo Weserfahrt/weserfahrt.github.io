@@ -1,6 +1,6 @@
 ---
 title: "Anmeldung"
-background: bg6.jpg
+background: bg8.jpg
 ---
 Anmeldungen sind hier ab dem 1. März 2017 online möglich. Sie haben aber auch die Möglichkeit ein Anmeldeformular anzufordern. Die genauen Einzelheiten folgen. 
 
