@@ -54,7 +54,7 @@ function initialise_document_ready_functions()
         {
           // custom parameters for carousel (see Owl Carousel documentation for more info)
           $("#common-modal .popup-image-gallery").owlCarousel({
-            autoPlay : 3000,
+           // autoPlay : 3000,
             stopOnHover : true,
             navigation: false,
             paginationSpeed : 1000,
