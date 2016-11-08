@@ -32,7 +32,7 @@ function initialise_document_ready_functions()
 
     // initialise carousel
     $('#features-carousel').carousel({
-      interval: 6000
+      interval: 600000
     });
 
     // initialise form validation and submit functions 
