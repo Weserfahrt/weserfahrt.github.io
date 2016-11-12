@@ -1,25 +1,27 @@
 {% for post in site.posts reversed %}
-  {% capture id %}{{ post.id | remove:'/' | downcase }}{% endcapture %}
-  {% assign wordCount = post.content | number_of_words %}
-  <article id="{{ id }}" class="section-wrapper clearfix" data-custom-background-img="assets/images/other_images/{{ post.background }}">
-    <div class="content-wrapper clearfix wow fadeInDown" data-wow-delay="0.3s">
-    {% if post.carousel != true %}
-        <div class="col-sm-10 col-md-9 pull-right">
-<h1>{{ post.title }}</h1>
-{% if wordCount <= 100 %}
-	{{ post.content }}
-{% else %}
-		{{ post.content | strip_html | truncatewords:100 }}
-		<p><a href="" onclick="populate_and_open_modal(event, 'modal-content-{{id}}');" class="btn btn-outline-inverse btn-sm">weiterlesen</a></p>
-		<div class="content-to-populate-in-modal" id="modal-content-{{id}}">
-          {{ post.content }}
-        </div>
-{% endif %}
+    {% if post.nomenu %} <!-- hidden item --> {% else %}
+    {% capture id %}{{ post.id | remove:'/' | downcase }}{% endcapture %}
+    {% assign wordCount = post.content | number_of_words %}
+    <article id="{{ id }}" class="section-wrapper clearfix" data-custom-background-img="assets/images/other_images/{{ post.background }}">
+      <div class="content-wrapper clearfix wow fadeInDown" data-wow-delay="0.3s">
+      {% if post.carousel != true %}
+          <div class="col-sm-10 col-md-9 pull-right">
+  <h1>{{ post.title }}</h1>
+  {% if wordCount <= 100 %}
+  	{{ post.content }}
+  {% else %}
+  		{{ post.content | strip_html | truncatewords:100 }}
+  		<p><a href="" onclick="populate_and_open_modal(event, 'modal-content-{{id}}');" class="btn btn-outline-inverse btn-sm">weiterlesen</a></p>
+  		<div class="content-to-populate-in-modal" id="modal-content-{{id}}">
+            {{ post.content }}
+          </div>
+  {% endif %}
 
-        </div><!-- .col-sm-10 -->
-    {% else %}
-       {{ post.content }}
-    {% endif %}
-    </div><!-- .content-wrapper -->
-  </article>
+          </div><!-- .col-sm-10 -->
+      {% else %}
+         {{ post.content }}
+      {% endif %}
+      </div><!-- .content-wrapper -->
+    </article>
+  {% endif %}
 {% endfor %}

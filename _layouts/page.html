@@ -22,7 +22,7 @@
 
       <!-- Left Sidebar -->
       <section id="left-sidebar">
-        
+
         <div class="logo">
           <a href="#intro" class="link-scroll">
           {% include logo.svg %}
@@ -34,8 +34,10 @@
 
         <ul id="main-menu">
         {% for post in site.posts reversed %}
+          {% if post.nomenu %} <!-- hidden item --> {% else %}
             {% capture id %}{{ post.id | remove:'/' | downcase }}{% endcapture %}
-        <li class="menu-item scroll" id="menu-item-{{ id }}"><a href="#{{ id }}">{{ post.title }}</a></li>
+            <li class="menu-item scroll" id="menu-item-{{ id }}"><a href="#{{ id }}">{{ post.title }}</a></li>
+          {% endif %}
         {% endfor %}
         </ul><!-- #main-menu -->
 
@@ -43,7 +45,7 @@
       <!-- end: Left Sidebar -->
 
       <section id="main-content" class="clearfix">
-        
+
         <article id="intro" class="section-wrapper clearfix" data-custom-background-img="assets/images/other_images/bg5.jpg">
           <div class="content-wrapper clearfix wow fadeInDown" data-wow-delay="0.3s">
             <div class="col-sm-10 col-md-9 pull-right">
@@ -72,7 +74,7 @@
         <!-- copyright text -->
         <div class="footer-text-line">&copy; 2016 Landes-Kanu-Verband Niedersachsen e.V.</div>
       </section>
-      <!-- end: Footer -->      
+      <!-- end: Footer -->
 
     </div><!-- #outer-container -->
     <!-- end: Outer Container -->
@@ -87,7 +89,7 @@
           </div><!-- .modal-body -->
         </div><!-- .modal-content -->
       </div><!-- .modal-dialog -->
-    </div><!-- .modal -->    
+    </div><!-- .modal -->
     {% include scripts.html %}
   </body>
 </html>
