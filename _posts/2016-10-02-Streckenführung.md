@@ -35,6 +35,8 @@ carousel: true
   <div class="content-to-populate-in-modal" id="modal-content-{{id}}">
         {{ post.content | markdownify }}
       </div>
+<script>$.vegas({ src:"/assets/images/strecke/{{ teil.tag }}.jpg" });</script>
+
    {% endif %}
 {% endfor %}
 {% else %}
