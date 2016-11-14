@@ -1,7 +1,7 @@
 ----
--title: Beschreibung Tag 1
--nomenu: true
--wandertag: 1
+title: Beschreibung Tag 1
+nomenu: true
+wandertag: 1
 ----
 
 -An unserem ersten Paddel-Tag starten wir gemeinsam vom Gelände des Mündener Kanuclubs auf der Fulda. Danach links halten und nach ca. 1 km die Schleuse einfahren (Bootsrutsche nicht empfehlenswert).Die ersten Meter paddeln wir noch auf der Fulda, bevor es unterhalb des Wesersteins links in die Weser geht.
