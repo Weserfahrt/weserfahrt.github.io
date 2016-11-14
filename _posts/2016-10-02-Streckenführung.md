@@ -31,7 +31,7 @@ carousel: true
 {% for post in site.posts %}
 {% assign test = "Beschreibung Tag " | append: teil.tag %}
   {% if post.title == test %}
-  <p><a href="" onclick="populate_and_open_modal(event, 'modal-content-{{id}}');" class="btn btn-outline-inverse btn-sm">Details</a></p>
+  <p data-debug="{{ test }}"><a href="" onclick="populate_and_open_modal(event, 'modal-content-{{id}}');" class="btn btn-outline-inverse btn-sm">Details</a></p>
   <div class="content-to-populate-in-modal" id="modal-content-{{id}}">
         {{ post.content | markdownify }}
       </div>
