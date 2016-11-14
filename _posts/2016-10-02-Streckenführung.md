@@ -31,8 +31,8 @@ carousel: true
 {% for post in site.posts %}
 {% assign test = "Beschreibung Tag " | append: teil.tag %}
   {% if post.title == test %}
-  <p data-debug="{{ test }}"><a href="" onclick="populate_and_open_modal(event, 'modal-content-{{id}}');" class="btn btn-outline-inverse btn-sm">Details</a></p>
-  <div class="content-to-populate-in-modal" id="modal-content-{{id}}">
+  <p data-debug="{{ test }}"><a href="" onclick="populate_and_open_modal(event, 'modal-content-{{ post.wandertag }}');" class="btn btn-outline-inverse btn-sm">Details</a></p>
+  <div class="content-to-populate-in-modal" id="modal-content-{{ post.wandertag }}">
         {{ post.content | markdownify }}
       </div>
 <script>$.vegas({ src:"/assets/images/strecke/tag{{ teil.tag }}.jpg" });</script>
