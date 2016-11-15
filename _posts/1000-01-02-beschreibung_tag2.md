@@ -4,7 +4,7 @@ nomenu: true
 wandertag: 2
 ---
 
-Die heutige Etappe startet am Campongplatz in Gieselwerder und endet bei Wassersport Höxter  
+Die heutige Etappe startet vom Campingplatz in Gieselwerder und endet beim Kanuverein Wassersport Höxter. Unterwegs bieten sich viele Rast- und Besichtigungsmöglichkeiten an.  
 
 - Km 28,0 links Gieselwerder  Endet am Bootshaus.
 -	Km 32,2 rechts Lippoldsberg mit Fährbetrieb. Sehenswerte Klosterkirche. Gastronomie und öffentliche Toilette. 
@@ -22,4 +22,4 @@ Die heutige Etappe startet am Campongplatz in Gieselwerder und endet bei Wassers
 -	Km 60 links: Wehrden mit Fussgänger und Fahradfähre.
 - Km 63,2 rechts: Fürstenberg, oberhalbt Schloss Fürstenberg mit Porzellanmanufaktur, Gastronomie im Schloss,Rastplatz, Starke Strömung!
 -	Km 65,5 Boffzen.
--	Km 68,0  rechts Höxter Am Bootshaus von Wassersport Höxter den Steg benutzen. Übernachtung auf zwei großen Wiesen in zelten oder in kleinen gemütlichen Zimmern im Bootshaus, Matrazenlager möglich.
+-	Km 68,0  rechts Höxter. Am Bootshaus von Wassersport Höxter den Steg benutzen. Übernachtung auf zwei großen Wiesen in zelten oder in kleinen gemütlichen Zimmern im Bootshaus, Matrazenlager möglich.
