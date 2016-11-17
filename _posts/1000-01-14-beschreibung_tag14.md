@@ -4,5 +4,5 @@ nomenu: true
 wandertag: 14
 ---
 
-Text Tag 14
+THier fehlt noch die Beschreibung für den Streckenabschnitt am 14.Tag
 
