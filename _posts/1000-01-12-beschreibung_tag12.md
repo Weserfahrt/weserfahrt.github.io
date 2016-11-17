@@ -5,4 +5,4 @@ wandertag: 12
 ---
 
 
-Text Tag 12
+Hier fehlt noch die Beschreibung für den Streckenabschnitt am 12.Tag
