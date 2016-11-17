@@ -4,5 +4,5 @@ nomenu: true
 wandertag: 8
 ---
 
-Text Tag8
+Hier fehlt noch die Beschreibung für den Streckenabschnitt am 8.Tag
 
