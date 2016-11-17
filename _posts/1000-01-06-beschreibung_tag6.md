@@ -1,9 +1,9 @@
 ---
-title: Beschreibung Tag 3
+title: Beschreibung Tag 6
 nomenu: true
-wandertag: 3
+wandertag: 6
 ---
 
 
 
-Text Tag3
+Text Tag6
