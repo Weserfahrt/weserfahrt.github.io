@@ -5,7 +5,7 @@ wandertag: 7
 
 ---
 
+Hier fehlt noch die Beschreibung für den Streckenabschnitt am 7.Tag
 
 
-Text Tag7
 
