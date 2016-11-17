@@ -6,4 +6,4 @@ wandertag: 6
 
 
 
-Text Tag6
+Hier fehlt noch die Beschreibung für den Streckenabschnitt am 6.Tag
