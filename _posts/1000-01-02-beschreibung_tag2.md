@@ -12,10 +12,10 @@ Die heutige Etappe startet vom Campingplatz in Gieselwerder und endet beim Kanuv
 - Km 35,8 rechts Wahmbeck, kleiner Ort mit Fährbetrieb.
 - Km 35,8 links Gewissenruh. Rastplatz neben dem Fähranleger.
 -	Km 44 - 45 links Bad Karlshafen, sehenswerte Barockstadt. Anlegemöglichkeit am Campingplatz (längeren Fußmarsch zur Innenstadt). 
--	Km 44,7: links Mündung  der Diemel.
--	Km 47 Herstelle links und Würgassen rechts, verbunden durch die kleine Personenfähre. 
+-	Km 44,7 links Mündung  der Diemel.
+-	Km 47,0 Herstelle links und Würgassen rechts, verbunden durch die kleine Personenfähre. 
 -	Km 47,1: Anleger in Würgassen.
-- Km 49:rechts die Reste des AKW Würgassen. 
+- Km 49,0 rechts die Reste des AKW Würgassen. 
 - Km 51,7 links: Bootshaus Beverungen, Große Zeltwiese, Rastplatz, Gastronomie.
 -	Km 53,1 links: Beverungen und Lauenförde rechts.
 -	Km 57,5 links: Blankenau mit Rastplatz. 
