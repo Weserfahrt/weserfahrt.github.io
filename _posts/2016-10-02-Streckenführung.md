@@ -1,6 +1,6 @@
 ---
 title: Streckenführung
-background: bg2.jpg
+background: bg6.jpg
 carousel: true
 ---
 
