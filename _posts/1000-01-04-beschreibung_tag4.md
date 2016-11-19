@@ -5,6 +5,7 @@ wandertag: 4
 ---
 
 Die heutige Etappe startet am Campingplatz Rühler Schweiz und endet am Kanu-Club Hameln
+
 - Km 108,8 rechts Campingplatz an der Himmelspforte.
 - Km 111,0 Bodenwerder: Heimat des Lügenbarons von Münchhausen.
 - Km 112,5 rechts Kemnade
