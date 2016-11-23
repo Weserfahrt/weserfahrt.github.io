@@ -16,10 +16,10 @@ Die heutige Etappe startet vom Campingplatz in Gieselwerder und endet beim Kanuv
 -	Km 47,0 Herstelle links und Würgassen rechts, verbunden durch die kleine Personenfähre. 
 -	Km 47,1 Anleger in Würgassen.
 - Km 49,0 rechts die Reste des AKW Würgassen. 
-- Km 51,7 links Bootshaus Beverungen, Große Zeltwiese, Rastplatz, Gastronomie.
+- Km 51,7 links Bootshaus Beverungen, große Zeltwiese, Rastplatz, Gastronomie.
 -	Km 53,1 links Beverungen und Lauenförde rechts.
 -	Km 57,5 links Blankenau mit Rastplatz. 
 -	Km 60,0 links Wehrden mit Fussgänger und Fahradfähre.
-- Km 63,2 rechts Fürstenberg, oberhalbt Schloss Fürstenberg mit Porzellanmanufaktur, Gastronomie im Schloss,Rastplatz, Starke Strömung am Anleger.
+- Km 63,2 rechts Fürstenberg, oberhalb Schloss Fürstenberg mit Porzellanmanufaktur, Gastronomie im Schloss,Rastplatz, starke Strömung am Anleger.
 -	Km 65,5 Boffzen.
--	Km 68,0 rechts Höxter. Ende der heutigen Etappe. Am Bootshaus von Wassersport Höxter den Steg benutzen. Übernachtung auf zwei großen Wiesen in zelten oder in kleinen gemütlichen Zimmern im Bootshaus, Matrazenlager möglich.
+-	Km 68,0 rechts Höxter. Ende der heutigen Etappe. Am Bootshaus von Wassersport Höxter bitte den Steg benutzen. Übernachtung auf zwei großen Wiesen in Zelten oder in kleinen gemütlichen Zimmern im Bootshaus, Matratzenlager möglich.
