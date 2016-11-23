@@ -1,5 +1,5 @@
 ---
-title: Streckenführung
+title: Tourenplan
 background: bg6.jpg
 carousel: true
 ---
