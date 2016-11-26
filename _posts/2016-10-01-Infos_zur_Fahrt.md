@@ -21,3 +21,5 @@ max. 40
 - Anmeldungen sind ab 01.03.2017 möglich. Zu diesem Termin ist ein Anmeldeformular online und per Post verfügbar.
 
 - Meldeschluss ist der 31.05.2017 oder bei Erreichen der Teilnehmeranzahl
+
+- [Vorläufiger Tourenplan](https://github.com/Weserfahrt/weserfahrt.github.io/blob/master/assets/images/Tourenplan%2015%20-29%2007%20%202017.pdf)
