@@ -22,4 +22,4 @@ max. 40
 
 - Meldeschluss ist der 31.05.2017 oder bei Erreichen der Teilnehmeranzahl
 
-- [Vorläufiger Tourenplan](https://github.com/Weserfahrt/weserfahrt.github.io/blob/master/assets/images/Tourenplan%2015%20-29%2007%20%202017.pdf)
+- [Vorläufiger Tourenplan](/assets/images/Tourenplan%2015%20-29%2007%20%202017.pdf)
