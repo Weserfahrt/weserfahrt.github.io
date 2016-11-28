@@ -13,7 +13,7 @@ An unserem ersten Paddel-Tag starten wir gemeinsam vom Gelände des Mündener Ka
 - Km 11,3 rechts Hemeln, Achtung Seilfähre, [*rustikale Gasstätte mit deftigen und günstigen Speisen.*](https://www.google.de/maps/place/Zur+F%C3%A4hre/@51.4983293,9.6064822,15z/data=!4m5!3m4!1s0x0:0xc24403c773214600!8m2!3d51.4983293!4d9.6064822)
 - Km 12,8 rechts Weser-Camping Hemeln, Bistro, anlegen auf Slipanlage
 - Km 16,0 rechts über der Weser die Bramburg, danach am gleichen Ufer das Dorf Glashütte.
-- Km 18,7 rechts Bursfelde, am Schwimmsteg anlegen,[*Gastronomie mit Biergarten,*](http://www.klostermuehle-bursfelde.de/) Stiftskirche des Klosters kann besichtigt werden.
+- Km 18,7 rechts Bursfelde, am Schwimmsteg anlegen,[*Gastronomie mit Biergarten,*](https://www.google.de/maps/place/Klosterm%C3%BChle/@51.5430765,9.6211909,17z/data=!3m1!4b1!4m5!3m4!1s0x47bb2681f426e8b7:0x23232668f9c4e2c4!8m2!3d51.5430732!4d9.6233796) Stiftskirche des Klosters kann besichtigt werden.
 - Km 22,2 links Weißehütte mit Campingplatz und Gastronomie
 - Km 25,0 rechts Oedelsheim, Achtung Seilfähre, danach rechts Camping Oedelsheim mit Gastronomie, Hallenbad.
 - Km 28,0 links Gieselwerder, Ende der Tagesetappe. Am Schwimmsteg beim Ende des Campingplatzes vor der Weserbrücke anlegen.
