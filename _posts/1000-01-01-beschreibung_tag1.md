@@ -10,7 +10,7 @@ An unserem ersten Paddel-Tag starten wir gemeinsam vom Gelände des Mündener Ka
 - Km 2,2 rechts Anleger Gimte, kleiner Naturstrand. Sehenswert im Ort: die Marienkirche
 - Km 3,5 links ehemaliges Klostergut Hilkwartshausen, links die Hänge des hessischen Reinhardswalds rechts der niedersächsische Bramwald.
 - Km 10,0 links Reinhardshagen
-- Km 11,3 rechts Hemeln, Achtung Seilfähre, rustikale Gasstätte mit deftigen und günstigen Speisen.
+- Km 11,3 rechts Hemeln, Achtung Seilfähre, [*rustikale Gasstätte mit deftigen und günstigen Speisen.*](https://www.google.de/maps/place/Zur+F%C3%A4hre/@51.4983293,9.6064822,15z/data=!4m5!3m4!1s0x0:0xc24403c773214600!8m2!3d51.4983293!4d9.6064822)
 - Km 12,8 rechts Weser-Camping Hemeln, Bistro, anlegen auf Slipanlage
 - Km 16,0 rechts über der Weser die Bramburg, danach am gleichen Ufer das Dorf Glashütte.
 - Km 18,7 rechts Bursfelde, am Schwimmsteg anlegen,[*Gastronomie mit Biergarten,*](http://www.klostermuehle-bursfelde.de/) Stiftskirche des Klosters kann besichtigt werden.
