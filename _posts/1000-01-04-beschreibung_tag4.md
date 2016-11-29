@@ -17,4 +17,4 @@ Die heutige Etappe startet am Campingplatz Rühler Schweiz und endet am Kanu-Clu
 - Km 124,7 links AKW Grohnde.
 - Km 126,5 links Kirchohsen. 
 - Km 129,0 rechts Tündern. 
-- Km 134,3 rechts Kanu-Club Hameln, Ende der heutigen Etappe, am Schwimmsteg aussteigen. 
+- Km 134,3 rechts Kanu-Club Hameln, Ende der heutigen Etappe, an Rampe oder Schwimmsteg aussteigen. 
