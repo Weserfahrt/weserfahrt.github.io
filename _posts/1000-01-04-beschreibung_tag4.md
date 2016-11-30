@@ -4,7 +4,7 @@ nomenu: true
 wandertag: 4
 ---
 
-Die heutige Etappe startet am Campingplatz Rühler Schweiz und endet am Kanu-Club Hameln
+Die heutige Etappe startet am Campingplatz Rühler Schweiz und endet am Kanu-Club Hameln.
 
 - Km 106,7 rechts Start der Etappe am Campingplatz Rühler Schweiz
 - Km 108,8 rechts Campingplatz Himmelspforte
