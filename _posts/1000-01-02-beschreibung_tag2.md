@@ -14,7 +14,6 @@ Die heutige Etappe startet vom Campingplatz in Gieselwerder und endet beim Kanuv
 -	Km 44.0 links Bad Karlshafen, sehenswerte Barockstadt 
 -	Km 44,7 links Mündung der Diemel, rechts Anlegemöglichkeit am Campingplatz (längerer Fußmarsch zur Innenstadt)
 -	Km 47,0 Herstelle links, rechts Anleger in Würgassen mit kleiner Personenfähre 
--
 - Km 49,0 rechts die Reste des AKW Würgassen 
 - Km 51,7 links Bootshaus Beverungen, große Zeltwiese, Rastplatz, Gastronomie
 -	Km 53,1 links Beverungen und rechts Lauenförde 
