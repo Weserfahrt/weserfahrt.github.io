@@ -4,7 +4,7 @@ nomenu: true
 wandertag: 6
 ---
 
-
+Die heutige Etappe startet am Kanu-Club Hameln und endet in Rinteln am Kanu-Club.
 
 - Km 134,3 rechts Kanu-Club Hameln, Start der heutigen Etappe, nach der Eisenbanbrücke links halten, Schleusen oder nach 200 m die Bootsrutsche nutzen bzw. umtragen 
 - Km 139,5 rechts Wehrbergen
