@@ -6,7 +6,7 @@ wandertag: 2
 
 Die heutige Etappe startet vom Campingplatz in Gieselwerder und endet beim Kanuverein Wassersport Höxter. Unterwegs bieten sich viele Rast- und Besichtigungsmöglichkeiten an.  
 
-- Km 28,0 links Gieselwerder, Start der heutigen Etappe.
+- Km 28,0 links Gieselwerder, Start der heutigen Etappe
 -	Km 32,2 rechts Lippoldsberg mit Fährbetrieb, sehenswerte Klosterkirche, Gastronomie, am Parkplatz öffentliche Toilette
 -	Km 32,9 rechts Bodenfelde 
 - Km 35,8 rechts Wahmbeck, kleiner Ort mit Fährbetrieb
