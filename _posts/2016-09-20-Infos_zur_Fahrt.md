@@ -12,14 +12,17 @@ Diese 14-tägige sportliche Gepäckfahrt ist bis Minden ist auf Grund der Etappe
   *  Sonntag, 16.07.2017 ab Hann. Münden
   *  Samstag, 22.07.2017 an Minden, Ende Tour 1 „Oberweser“(205 km)
   *  Donnerstag, 27.07.2017 an Bremen, Ende Tour 2 „Ober-/Mittelweser“ (366 km)
-  *  Samstag, 29.07.2017 an Nordenham, Ende Tour 3 „Kurs Nord“ (425 km) 
+  *  Samstag, 29.07.2017 an Nordenham, Ende Tour 3 „Kurs Nord“ (425 km)
+  
   
 - Tourenorganisation und Fahrtenleitung:
   *  LKV Niedersachsen / Elisabeth Thielbörger
+  
 
 - Tourenverlauf: 
   *  Hann. Münden – Nordenham (425 km) in zwölf Etappen
   *  Weitere Details zum Tourenablauf erfolgen mit der Meldebestätigung.
+  
 
 - Teilnehmergebühr p.P., Paketpreise (DKV-Mitglieder / Nichtmitglieder)
   *  Erwachsene Tour 1: 110 /150 €, Jugendl bis 18J. 75/ 110 €
