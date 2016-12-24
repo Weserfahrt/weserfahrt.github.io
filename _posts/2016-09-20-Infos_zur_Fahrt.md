@@ -8,13 +8,13 @@ Unter dem Motto "Von den Bergen bis ans Meer" organisiert der LKV Niedersachsen 
 Diese 14-tägige sportliche Gepäckfahrt ist bis Minden ist auf Grund der Etappenlängen auch für Familien geeignet. Die Übernachtung erfolgt in eigenen Zelten auf Zeltplätzen oder auf Bootshausgeländen von anliegenden Kanuvereinen. Die Aktiven verpflegen sich selbst. Angebote der Gastgeber können häufig genutzt werden. Die Teilnehmer müssen in der Lage sein auch bei Wind und Wetter täglich die Etappen auf fließenden Gewässern mit Gepäck zu bewältigen. Weiterhun müssen alle schwimmen können, Boote sind unsinkbar zu machen. Jeder ist für sich eigenverantwortlich, sollte aber teamfähig und gewillt sein, sich auf eine Fahrt in der Gruppe einzulassen. Komfortverzicht muss eingeplant werden, auch wenn wir versuchen werden, allen einen angenehmen Urlaub zu ermöglichen. Natur, Kultur und Zeit für Begegnungen sollen trotz sportlicher Etappenlängen nicht zu kurz kommen! Um die Umwelt und den Geldbeutel zu schonen, wird versucht innerhalb des Teilnehmerfeldes im Vorfeld Fahrgemeinschaften zu organisieren. Änderungen sind vorbehalten, es können sich ggf. kurzfristige Detail- Fahrtenanpassungen ergeben. 
 
 - Termine:
-*  Samstag, 15.07.2017	Anreise nach Hann. Münden, möglichst bis mittags
-*  Sonntag, 16.07.2017 ab Hann. Münden
-*  Samstag, 22.07.2017 an Minden, Ende Tour 1 „Oberweser“(205 km)
-*  Donnerstag, 27.07.2017 an Bremen, Ende Tour 2 „Ober-/Mittelweser“ (366 km)
-*  Samstag, 29.07.2017 an Nordenham, Ende Tour 3 „Kurs Nord“ (425 km)
+  *Samstag, 15.07.2017	Anreise nach Hann. Münden, möglichst bis mittags
+  *  Sonntag, 16.07.2017 ab Hann. Münden
+  *  Samstag, 22.07.2017 an Minden, Ende Tour 1 „Oberweser“(205 km)
+  *  Donnerstag, 27.07.2017 an Bremen, Ende Tour 2 „Ober-/Mittelweser“ (366 km)
+  *  Samstag, 29.07.2017 an Nordenham, Ende Tour 3 „Kurs Nord“ (425 km)
 - Tourenorganisation und Fahrtenleitung:
-*  LKV Niedersachsen / Elisabeth Thielbörger
+  *  LKV Niedersachsen / Elisabeth Thielbörger
 
 - Tourenverlauf:
 Hann. Münden – Nordenham (425 km) in zwölf Etappen: Hann. Münden 29 km  Gieselwerder 40 km  Höxter 40 km  Rühle 28 km
