@@ -22,16 +22,24 @@ Diese 14-tägige sportliche Gepäckfahrt ist bis Minden ist auf Grund der Etappe
   *  Weitere Details zum Tourenablauf erfolgen mit der Meldebestätigung.
 
 - Teilnehmergebühr p.P., Paketpreise (DKV-Mitglieder / Nichtmitglieder)
-  *  Erwachsene Tour 1: 110 /150 € 
-  *  Erwachsene Tour 2: 135 /180 € 
-  *  Erwachsene Tour 3: 150/200 € 
-  *  Jugendl. bis18 J.(subventioniert):    75/ 110 €                      90/140 €                    100/150 € Jedes weitere Kind einer Familie ist kostenfrei bei 2 Vollzahlern.
-Teilstrecken  (falls verfügbar):	einmalige Organisationsgebühr: p.P. 12/16 €
-pro Strecke:              Erwachsene 10/14 €, Jugendliche 7/10 € (ohne T-Shirt). Leistungen:             Tourenorganisation, Übernachtung, T-Shirt, Fahrtenbucheinkleber Teilnehmerzahl:     max. 40 Personen, Familien bevorzugt
-Anmeldungen /Ansprechpartner:
-Elisabeth Thielbörger,
-Tel. 05066/4632 – Mail: thielboerger@htp-tel.de
-Anmeldeformular: siehe Anlage
+  *  Erwachsene Tour 1: 110 /150 €, Jugendl bis 18J. 75/ 110 €
+  *  Erwachsene Tour 2: 135 /180 €, Jugendl bis 18J. 90/140 €
+  *  Erwachsene Tour 3: 150/200 €, Jugendl bis 18J. 100/150 €
+  *  Jedes weitere Kind einer Familie ist kostenfrei bei 2 Vollzahlern.
+  *  Teilstrecken (falls verfügbar):	einmalige Organisationsgebühr: p.P. 12/16 € pro Strecke:Erwachsene 10/14 €, Jugendliche 7/10 € (ohne T-Shirt).
+  
+- Leistungen:
+  *  Tourenorganisation
+  *  ÜbernachtungT-Shirt
+  *  Fahrtenbucheinkleber 
+  
+ - Teilnehmerzahl:
+   *  max. 40 Personen, Familien bevorzugt
+  
+- Anmeldungen /Ansprechpartner:
+   Elisabeth Thielbörger,
+    Tel. 05066/4632 – Mail: thielboerger@htp-tel.de
+     Anmeldeformular: siehe Anlage
 Meldeschluss:	31.05.2017, bzw. bei Erreichen der max. Teilnehmerzahl
  
 Besondere Hinweise:
@@ -55,11 +63,6 @@ In der Meldung abgegebene persönliche Daten werden maschinell gespeichert und n
 Diesen Punkt erkennt der Teilnehmer mit seiner Anmeldung ausdrücklich an.
 
 
-- Teilnehmergebühr ( in Arbeit)
-
-
-- Leistungen: 
-Tourenorganisation, Übernachtungen, Fahrtenbucheinkleber, T-Shirt
 
 
 - Teilnehmeranzahl:
