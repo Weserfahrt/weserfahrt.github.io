@@ -50,23 +50,5 @@ Die Teilnahme an der Veranstaltung erfolgt auf eigene Gefahr. Jede Haftung des V
 - Meldeschluss:	31.05.2017, bzw. bei Erreichen der max. Teilnehmerzahl
  
 
-Die Teilnehmer sollten in der Lage sein auch bei Wind und Wetter täglich die Etappen auf fließenden Gewässern mit Gepäck zu bewältigen. Teilstrecken sind buchbar.
-Für Familien mit kleineren Kindern ist die Oberweser empfehlenswert.
-Für die Unterweser-Tour gilt:  Boot und Ausrüstung müssen für den Großgewässerbe- reich ausgelegt sein. Hier ist das Anlegen der Schwimmweste für alle Pflicht.
-Alle Teilnehmer müssen schwimmen können. Das Anlegen einer Schwimmweste wird empfohlen und ist für Kinder und Jugendliche Pflicht. Die Boote sind unsinkbar zu 
-machen. Alle Teilnehmer sind eigenverantwortlich, sollten aber teamfähig und gewillt sein, sich auf eine Fahrt in der Gruppe einzulassen.
-Komfortverzicht muss eingeplant werden, auch wenn wir versuchen werden allen 
-einen angenehmen Urlaub zu ermöglichen.
-Natur, Kultur und Zeit für Begegnungen sollen trotz sportlicher Etappenlängen nicht zu kurz kommen!
-Um die Umwelt und den Geldbeutel zu schonen, werden wir versuchen innerhalb des Teilnehmerfeldes im Vorfeld Fahrgemeinschaften zu organisieren. Dazu benötigen wir Eure Bereitschaft und Unterstützung.
-Für die Rückführung empfehlen wir die Bahn: Niedersachsen-Ticket, 5 Personen
-möglich (23 € + 4 € je weitere Person).
-Änderungen sind vorbehalten, es können sich ggf. kurzfristige Detail-Fahrten- anpassungen ergeben.
-Haftungsausschluss:
-Die Teilnahme an der Veranstaltung erfolgt auf eigene Gefahr. Jede Haftung des Ver- anstalters und seiner Hilfspersonen für Personen- und Sachschäden ist ausgeschlossen, außer bei Vorsatz oder grober Fahrlässigkeit. Mit der Teilnahme an der Veranstaltung wird dieser Haftungsausschluss akzeptiert.
 
-
-
-
-
-- [Vorläufiger Tourenplan](/assets/images/Tourenplan%2015%20-29%2007%20%202017.pdf)
+- [Tourenplan](/assets/images/Tourenplan%2015%20-29%2007%20%202017.pdf)
