@@ -8,23 +8,24 @@ Unter dem Motto "Von den Bergen bis ans Meer" organisiert der LKV Niedersachsen 
 Diese 14-tägige sportliche Gepäckfahrt ist bis Minden ist auf Grund der Etappenlängen auch für Familien geeignet. Die Übernachtung erfolgt in eigenen Zelten auf Zeltplätzen oder auf Bootshausgeländen von anliegenden Kanuvereinen. Die Aktiven verpflegen sich selbst. Angebote der Gastgeber können häufig genutzt werden. Die Teilnehmer müssen in der Lage sein auch bei Wind und Wetter täglich die Etappen auf fließenden Gewässern mit Gepäck zu bewältigen. Weiterhun müssen alle schwimmen können, Boote sind unsinkbar zu machen. Jeder ist für sich eigenverantwortlich, sollte aber teamfähig und gewillt sein, sich auf eine Fahrt in der Gruppe einzulassen. Komfortverzicht muss eingeplant werden, auch wenn wir versuchen werden, allen einen angenehmen Urlaub zu ermöglichen. Natur, Kultur und Zeit für Begegnungen sollen trotz sportlicher Etappenlängen nicht zu kurz kommen! Um die Umwelt und den Geldbeutel zu schonen, wird versucht innerhalb des Teilnehmerfeldes im Vorfeld Fahrgemeinschaften zu organisieren. Änderungen sind vorbehalten, es können sich ggf. kurzfristige Detail- Fahrtenanpassungen ergeben. 
 
 - Termine:
-  *Samstag, 15.07.2017	Anreise nach Hann. Münden, möglichst bis mittags
+  *  Samstag, 15.07.2017	Anreise nach Hann. Münden, möglichst bis mittags
   *  Sonntag, 16.07.2017 ab Hann. Münden
   *  Samstag, 22.07.2017 an Minden, Ende Tour 1 „Oberweser“(205 km)
   *  Donnerstag, 27.07.2017 an Bremen, Ende Tour 2 „Ober-/Mittelweser“ (366 km)
-  *  Samstag, 29.07.2017 an Nordenham, Ende Tour 3 „Kurs Nord“ (425 km)
+  *  Samstag, 29.07.2017 an Nordenham, Ende Tour 3 „Kurs Nord“ (425 km) 
+  
 - Tourenorganisation und Fahrtenleitung:
   *  LKV Niedersachsen / Elisabeth Thielbörger
 
-- Tourenverlauf:
-Hann. Münden – Nordenham (425 km) in zwölf Etappen: Hann. Münden 29 km  Gieselwerder 40 km  Höxter 40 km  Rühle 28 km
-Hameln (Ruhetag) 28 km  Rinteln 40 km   Minden (Ruhetag)  46 km  Landesbergen  49 km
-Hoya  35 km Drosselhof  31 km  Bremen  26 km  Rönnebeck  33 km  Nordenham
-Weitere Details zum Tourenablauf erfolgen mit der Meldebestätigung.
-Tourencharakter:
-Sportliche Gepäckfahrt, auch für Familien geeignet / Übernachtung in eigenen Zel- ten auf Zeltplätzen oder auf Bootshausgeländen von anliegenden Kanuvereinen / für die Unterweser gelten besondere Bedingungen / Selbstverpflegung, Angebote der Gastgeber können genutzt werden.
-Teilnehmergebühr p.P., Paketpreise (DKV-Mitglieder / Nichtmitglieder)
-Erwachsene:                Tour 1: 110 /150 €    Tour 2: 135 /180 €     Tour 3: 150/200 € Jugendl. bis18 J.(subventioniert):    75/ 110 €                      90/140 €                    100/150 € Jedes weitere Kind einer Familie ist kostenfrei bei 2 Vollzahlern.
+- Tourenverlauf: 
+  *  Hann. Münden – Nordenham (425 km) in zwölf Etappen
+  *  Weitere Details zum Tourenablauf erfolgen mit der Meldebestätigung.
+
+- Teilnehmergebühr p.P., Paketpreise (DKV-Mitglieder / Nichtmitglieder)
+  *  Erwachsene Tour 1: 110 /150 € 
+  *  Erwachsene Tour 2: 135 /180 € 
+  *  Erwachsene Tour 3: 150/200 € 
+  *  Jugendl. bis18 J.(subventioniert):    75/ 110 €                      90/140 €                    100/150 € Jedes weitere Kind einer Familie ist kostenfrei bei 2 Vollzahlern.
 Teilstrecken  (falls verfügbar):	einmalige Organisationsgebühr: p.P. 12/16 €
 pro Strecke:              Erwachsene 10/14 €, Jugendliche 7/10 € (ohne T-Shirt). Leistungen:             Tourenorganisation, Übernachtung, T-Shirt, Fahrtenbucheinkleber Teilnehmerzahl:     max. 40 Personen, Familien bevorzugt
 Anmeldungen /Ansprechpartner:
