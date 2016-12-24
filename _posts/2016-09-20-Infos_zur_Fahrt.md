@@ -15,13 +15,16 @@ Diese 14-tägige sportliche Gepäckfahrt ist bis Minden ist auf Grund der Etappe
   *  Samstag, 29.07.2017 an Nordenham, Ende Tour 3 „Kurs Nord“ (425 km)
   
   
+  
 - Tourenorganisation und Fahrtenleitung:
   *  LKV Niedersachsen / Elisabeth Thielbörger
+  
   
 
 - Tourenverlauf: 
   *  Hann. Münden – Nordenham (425 km) in zwölf Etappen
   *  Weitere Details zum Tourenablauf erfolgen mit der Meldebestätigung.
+  
   
 
 - Teilnehmergebühr p.P., Paketpreise (DKV-Mitglieder / Nichtmitglieder)
@@ -30,6 +33,8 @@ Diese 14-tägige sportliche Gepäckfahrt ist bis Minden ist auf Grund der Etappe
   *  Erwachsene Tour 3: 150/200 €, Jugendl bis 18J. 100/150 €
   *  Jedes weitere Kind einer Familie ist kostenfrei bei 2 Vollzahlern.
   *  Teilstrecken (falls verfügbar):	einmalige Organisationsgebühr: p.P. 12/16 € pro Strecke:Erwachsene 10/14 €, Jugendliche 7/10 € (ohne T-Shirt).
+  
+  
   
 - Leistungen:
   *  Tourenorganisation
