@@ -42,13 +42,11 @@ Die Teilnahme an der Veranstaltung erfolgt auf eigene Gefahr. Jede Haftung des V
   *  Fahrtenbucheinkleber 
   
  - Teilnehmerzahl:
-*  max. 40 Personen, Familien bevorzugt
+  * max. 40 Personen, Familien bevorzugt
   
 - Anmeldungen /Ansprechpartner:
-*  Elisabeth Thielbörger, Tel. 05066/4632 – Mail: thielboerger@htp-tel.de
+  *  Elisabeth Thielbörger, Tel. 05066/4632 – Mail: thielboerger@htp-tel.de
      
 - Meldeschluss:	31.05.2017, bzw. bei Erreichen der max. Teilnehmerzahl
- 
-
 
 - [Tourenplan](/assets/images/Tourenplan%2015%20-29%2007%20%202017.pdf)
