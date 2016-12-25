@@ -41,8 +41,7 @@ Die Teilnahme an der Veranstaltung erfolgt auf eigene Gefahr. Jede Haftung des V
   *  T-Shirt
   *  Fahrtenbucheinkleber 
   
- - Teilnehmerzahl:
-   *  max. 40 Personen, Familien bevorzugt
+ - Teilnehmerzahl:   *  max. 40 Personen, Familien bevorzugt
   
 - Anmeldungen /Ansprechpartner:   *  Elisabeth Thielbörger, Tel. 05066/4632 – Mail: thielboerger@htp-tel.de
      
