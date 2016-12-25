@@ -2,9 +2,9 @@
 title: "Anmeldung"
 background: bg8.jpg
 ---
-Anmeldungen sind hier ab dem 1. März 2017 online möglich. Sie haben aber auch die Möglichkeit ein Anmeldeformular anzufordern oder herunterzuladen. Die genauen Einzelheiten folgen. 
+Anmeldungen zur Fahrt sind hier ab sofort möglich. Bitte füllen Sie das Anmeldeformular vollständig aus und senden es per Mail oder Post an die angegebene Adresse. Von dort erhalten Sie dann eine Anmeldebestätigung mit weiteren Einzelheiten. 
+Meldeschluss ist der 31.Mai 2017 oder bei Erreichen der Teilnehmeranzahl.
 
-Meldeschluss: 31.05.2017 oder bei Erreichen der Teilnehmeranzahl.
 
 
  
