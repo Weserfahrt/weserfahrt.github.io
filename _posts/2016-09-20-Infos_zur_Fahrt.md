@@ -12,7 +12,7 @@ Alle Teilnehmer müssen schwimmen können. Das Anlegen einer Schwimmweste wird e
 Die Teilnahme an der Veranstaltung erfolgt auf eigene Gefahr. Jede Haftung des Veranstalters und seiner Hilfspersonen für Personen- und Sachschäden ist ausgeschlossen, außer bei Vorsatz oder grober Fahrlässigkeit. Mit der Teilnahme an der Veranstaltung wird dieser Haftungsausschluss akzeptiert.
 
 
-- Termine:
+##- Termine:
   *  Samstag, 15.07.2017,	Anreise nach Hann. Münden, möglichst bis mittags
   *  Sonntag, 16.07.2017, ab Hann. Münden
   *  Samstag, 22.07.2017, an Minden, Ende Tour 1 „Oberweser“ (205 km)
