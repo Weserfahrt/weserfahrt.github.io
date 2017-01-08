@@ -25,11 +25,12 @@ carousel: true
 <div class="item {% if forloop.index == 1 %} active {% endif %}" style="">
 <div class="carousel-text-content" style="">
 <h2 class="title">Tag {{ teil.tag }}</h2>
-{% if teil.strecke != "1000" %}
-{% if teil.strecke = "0" %}<h3>{{ teil.abfahrt }}</h3>
-{% else %}
+{% if teil.strecke != "0" %}
 <p>von {{ teil.abfahrt }} nach {{ teil.ziel }}</p>
 <p>{{ teil.strecke }}km</p>
+{% else %}
+<h3>{{ teil.abfahrt }}</h3>
+<p>{{ teil.bemerkung }}</p>
 {% endif %}
 {% for post in site.posts %}
 {% assign test = "Beschreibung Tag " | append: teil.tag %}
@@ -42,10 +43,6 @@ carousel: true
 
    {% endif %}
 {% endfor %}
-{% else %}
-<h3>{{ teil.abfahrt }}</h3>
-<p>{{ teil.bemerkung }}</p>
-{% endif %}
 </div>
 </div><!-- .item -->
 
