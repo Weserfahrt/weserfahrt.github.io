@@ -7,8 +7,9 @@ Anmeldungen zur Fahrt sind hier ab sofort möglich. Bitte füllen Sie das Anmeld
 
 Meldeschluss ist der 31.Mai 2017 oder bei Erreichen der Teilnehmeranzahl.
 
-- <a href="" onclick="populate_and_open_modal(event, 'modal-content-anmeldung');" class="btn btn-outline-inverse btn-sm">Anmeleformular (online)</a>
-- [Anmeleformular (PDF)](/assets/images/ausschreibungstext_mit anmeldung_iwf_2017.pdf)
+<a href="" onclick="populate_and_open_modal(event, 'modal-content-anmeldung');" class="btn btn-outline-inverse btn-sm">Anmeleformular (online)</a>
+
+<a href="/assets/images/ausschreibungstext_mit anmeldung_iwf_2017.pdf" class="btn btn-outline-inverse btn-sm">Anmeleformular (PDF)</a>
 
 
 <div class="content-to-populate-in-modal" id="modal-content-anmeldung">
