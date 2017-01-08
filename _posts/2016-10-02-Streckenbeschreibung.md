@@ -26,8 +26,11 @@ carousel: true
 <div class="carousel-text-content" style="">
 <h2 class="title">Tag {{ teil.tag }}</h2>
 {% if teil.strecke != "1000" %}
+{% if teil.strecke != "0" %}<h3>{{ teil.abfahrt }}</h3>
+{% else %}
 <p>von {{ teil.abfahrt }} nach {{ teil.ziel }}</p>
 <p>{{ teil.strecke }}km</p>
+{% endif %}
 {% for post in site.posts %}
 {% assign test = "Beschreibung Tag " | append: teil.tag %}
   {% if post.title == test %}
