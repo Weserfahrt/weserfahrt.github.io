@@ -1,16 +1,114 @@
 ---
 title: "Anmeldung"
 background: bg8.jpg
+noreadmore: true
 ---
-Anmeldungen zur Fahrt sind hier ab sofort möglich. Bitte füllen Sie das Anmeldeformular vollständig aus und senden es per Mail oder Post an die angegebene Adresse. Von dort erhalten Sie dann eine Anmeldebestätigung mit weiteren Einzelheiten. 
+Anmeldungen zur Fahrt sind hier ab sofort möglich. Bitte füllen Sie das Anmeldeformular vollständig aus und senden es per Mail oder Post an die angegebene Adresse. Von dort erhalten Sie dann eine Anmeldebestätigung mit weiteren Einzelheiten.
 
 Meldeschluss ist der 31.Mai 2017 oder bei Erreichen der Teilnehmeranzahl.
 
+- <a href="" onclick="populate_and_open_modal(event, 'modal-content-anmeldung');" class="btn btn-outline-inverse btn-sm">Anmeleformular (online)</a>
+- [Anmeleformular (PDF)](/assets/images/ausschreibungstext_mit anmeldung_iwf_2017.pdf)
 
-- [Anmeleformular](/assets/images/ausschreibungstext_mit anmeldung_iwf_2017.pdf)
+
+<div class="content-to-populate-in-modal" id="modal-content-anmeldung">
+<h3>Anmeldeformular</h3>
+                  <form class="form-style validate-form clearfix" action="https://formspree.io/mathiasgoebel@web.de" method="POST" role="form">
+
+                    <!-- form left col -->
+                    <div class="col-md-12">
+<!-- Name, Vorname: -->
+                      <div class="form-group">
+                        <input class="text-field form-control validate-field required" data-validation-type="string" id="form-name" placeholder="Name, Vorname" name="name" type="text" required="true">
+                      </div>
+<!-- Verein: -->
+                      <div class="form-group">
+                        <input class="text-field form-control validate-field required" data-validation-type="string" id="form-name" placeholder="Verein" name="verein" type="text" required="true">
+                      </div>
+<!-- Anschrift: -->
+                      <div class="form-group">
+                        <input class="text-field form-control validate-field required" data-validation-type="string" id="form-name" placeholder="Anschrift" name="anschrift" type="text" required="true">
+                      </div>
+<!-- Telefon: -->
+                      <div class="form-group">
+                        <input class="text-field form-control validate-field required" data-validation-type="phone" id="form-name" placeholder="(Mobil-) Telefon" name="telefon" type="text" required="true">
+                      </div>
+<!-- E-Mail: -->
+                      <div class="form-group">
+                        <input class="text-field form-control validate-field required" data-validation-type="email" id="form-email" placeholder="Email" name="email" type="email">
+                      </div>
+
+<div class="row">
+<!-- Anzahl Teilnehmer: -->
+<div class="col-md-5">
+                      <div class="form-group">
+                        <input class="text-field form-control validate-field required" data-validation-type="number" id="form-name" placeholder="Anzahl Teilnehmer" name="teilnehmer" type="text" required="true">
+                      </div>
+</div>
+<div class="col-md-7">
+<!-- Vor-, Zuname/ Alter*: -->
+                      <div class="form-group">
+                        <input class="text-field form-control validate-field required" data-validation-type="string" id="form-name" placeholder="Vor-, Zuname/ Alter*" name="teilnehmer1" type="text" required="true">
+                      </div>
+<!-- Vor-, Zuname/ Alter*: -->
+                      <div class="form-group">
+                        <input class="text-field form-control validate-field" data-validation-type="string" id="form-name" placeholder="Vor-, Zuname/ Alter*" name="teilnehmer2" type="text">
+                      </div>
+<!-- Vor-, Zuname/ Alter*: -->
+                      <div class="form-group">
+                        <input class="text-field form-control validate-field" data-validation-type="string" id="form-name" placeholder="Vor-, Zuname/ Alter*" name="teilnehmer3" type="text">
+                      </div>
+<!-- Vor-, Zuname/ Alter*: -->
+                      <div class="form-group">
+                        <input class="text-field form-control validate-field" data-validation-type="string" id="form-name" placeholder="Vor-, Zuname/ Alter*" name="teilnehmer4" type="text">
+                      </div>
+<p>* Angaben bei Jugendlichen erforderlich</p>
+</div>
+</div>
+
+<!-- Anzahl Boote/ Bootstyp: -->
+                      <div class="form-group">
+                        <input class="text-field form-control validate-field required" data-validation-type="string" id="form-name" placeholder="Anzahl Boote/ Bootstyp" name="boote.bootstyp" type="text" required="true">
+                      </div>
+<!-- Anzahl Zelte: -->
+                      <div class="form-group">
+                        <input class="text-field form-control validate-field required" data-validation-type="number" id="form-name" placeholder="Anzahl Zelte" name="zelte" type="text" required="true">
+                      </div>
+<div>Teilnahme an folgender Strecke:
+	 <div class="checkbox">
+	  <label><input type="checkbox" name="tour1" value="">Tour 1: Oberweser – Hann. Münden bis Minden</label>
+	</div>
+	<div class="checkbox">
+	  <label><input type="checkbox" name="tour2" value="">Tour 2: Oberweser/Mittelweser – Hann. Münden bis Bremen</label>
+	</div>
+	<div class="checkbox">
+	  <label><input type="checkbox" name="tour3" value="">Tour 3: Kurs Nord – Hann. Münden bis Nordenham</label>
+	</div>
+</div>
+<hr/>
+<div>
+<h5>freiwillige Angaben</h5>
+<p>In meinem PKW
+<input class="text-field form-control validate-field form-inline" data-validation-type="string" id="form-name" placeholder="Kennzeichen" name="kfz" type="text">
+biete ich Platz für <input class="text-field form-control validate-field form-inline" data-validation-type="number" id="form-name" placeholder="Anzahl Zelte" name="pkw.angebot.mitfahrer" type="text"> Mitfahrer und <input class="text-field form-control validate-field form-inline" data-validation-type="number" id="form-name" placeholder="Anzahl Zelte" name="pkw.angebot.boote" type="text"> Boote.
+<input class="text-field form-control validate-field" data-validation-type="string" id="form-name" placeholder="Abfahrtsort" name="pkw.angebot.abfahrtsort" type="text">
+</p>
+</div>
+<hr/>
+
+                      <div class="form-group">
+                        <textarea placeholder="Bemerkungen" class="form-control validate-field" name="bemerkungen"></textarea>
+                      </div>
+<p>Per Email erhalten Sie eine Bestätigung der sie auch die Zahlungsmodalitäten entnehmen. Erst mit Erhalt dieser Email und vorbehaltlich des Zahlungseingangs gilt ihre Anmeldung als verbindlich.</p>
+                      <div class="form-group">
+                        <img src="assets/images/theme_images/loader-form.GIF" class="form-loader">
+                        <button type="submit" class="btn btn-sm btn-outline-inverse btn-lg btn-block" style="font-size:1em;">Senden</button>
+                      </div>
+                      <div class="form-group form-general-error-container"></div>           
+                    </div>
+
+                  </form>
+                </div>
 
 
- 
- 
- 
- 
+</div>
