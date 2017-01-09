@@ -15,7 +15,8 @@ Meldeschluss ist der 31.Mai 2017 oder bei Erreichen der Teilnehmeranzahl.
 <div class="content-to-populate-in-modal" id="modal-content-anmeldung">
 <h3>Anmeldeformular</h3>
                   <form class="form-style validate-form clearfix" action="https://formspree.io/mathiasgoebel@web.de" method="POST" role="form">
-
+                  <input type="hidden" name="_cc" value="gbode@freenet.de" />
+                  <input type="hidden" name="_subject" value="Weserfahrt: Online-Anmeldung" />
                     <!-- form left col -->
                     <div class="col-md-12">
 <!-- Name, Vorname: -->
