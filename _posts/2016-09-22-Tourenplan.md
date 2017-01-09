@@ -7,6 +7,6 @@ Um die PDF-Dateien zu öffnen, benötigen Sie das Zusatzprogramm Adobe Acrobat R
 
 <a href="" onclick="populate_and_open_modal(event, 'modal-content-anmeldung');" class="btn btn-outline-inverse btn-sm">Anmeldeformular (online)</a>
 
-<a href="/assets/images/Tourenplan%2015%20-29%2007%20%202017.pdf" class="btn btn-outline-inverse btn-sm">Ausschreibung mit Anmeldung (PDF)</a>
+<a href="/assets/images/Tourenplan%2015%20-29%2007%20%202017.pdf" class="btn btn-outline-inverse btn-sm">Tourenplan</a>
 
 - [Tourenplan](/assets/images/Tourenplan%2015%20-29%2007%20%202017.pdf)
