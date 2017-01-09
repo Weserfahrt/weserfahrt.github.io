@@ -1,5 +1,5 @@
 ---
-title: "Tourenplan"
+title: "Tourenplan & Rahmenprogramm"
 background: bg8.jpg
 ---
 Hier können Sie den Tourenplan der Weserfahrt als PDF-Datei herunterladen.
