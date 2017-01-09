@@ -17,7 +17,6 @@ Meldeschluss ist der 31.Mai 2017 oder bei Erreichen der Teilnehmeranzahl.
                   <form class="form-style validate-form clearfix" action="https://formspree.io/mathiasgoebel@web.de" method="POST" role="form">
                   <input type="hidden" name="_cc" value="gbode@freenet.de" />
                   <input type="hidden" name="_subject" value="Weserfahrt: Online-Anmeldung" />
-                    <!-- form left col -->
                     <div class="col-md-12">
 <!-- Name, Vorname: -->
                       <div class="form-group">
@@ -92,7 +91,7 @@ Meldeschluss ist der 31.Mai 2017 oder bei Erreichen der Teilnehmeranzahl.
 <h5>freiwillige Angaben</h5>
 <p>In meinem PKW
 <input class="text-field form-control validate-field form-inline" data-validation-type="string" id="form-name" placeholder="Kennzeichen" name="kfz" type="text">
-biete ich Platz für <input class="text-field form-control validate-field form-inline" data-validation-type="number" id="form-name" placeholder="Anzahl Zelte" name="pkw.angebot.mitfahrer" type="text"> Mitfahrer und <input class="text-field form-control validate-field form-inline" data-validation-type="number" id="form-name" placeholder="Anzahl Zelte" name="pkw.angebot.boote" type="text"> Boote.
+biete ich Platz für <input class="text-field form-control validate-field form-inline" data-validation-type="number" id="form-name" placeholder="Anzahl Boote" name="pkw.angebot.mitfahrer" type="text"> Mitfahrer und <input class="text-field form-control validate-field form-inline" data-validation-type="number" id="form-name" placeholder="Anzahl Zelte" name="pkw.angebot.boote" type="text"> Boote.
 <input class="text-field form-control validate-field" data-validation-type="string" id="form-name" placeholder="Abfahrtsort" name="pkw.angebot.abfahrtsort" type="text">
 </p>
 </div>
