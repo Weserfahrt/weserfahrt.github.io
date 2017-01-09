@@ -78,13 +78,10 @@ Meldeschluss ist der 31.Mai 2017 oder bei Erreichen der Teilnehmeranzahl.
 <div>Teilnahme an folgender Strecke:
 	 <div class="radio">
 	  <label><input type="radio" name="tour" value="1">Tour 1: Oberweser – Hann. Münden bis Minden</label>
-	</div>
-	<div class="checkbox">
-	  <label><input type="radio" name="tour" value="2">Tour 2: Oberweser/Mittelweser – Hann. Münden bis Bremen</label>
-	</div>
-	<div class="checkbox">
+ 	  <label><input type="radio" name="tour" value="2">Tour 2: Oberweser/Mittelweser – Hann. Münden bis Bremen</label>
 	  <label><input type="radio" name="tour" value="3">Tour 3: Kurs Nord – Hann. Münden bis Nordenham</label>
 	</div>
+
 </div>
 <hr/>
 <div>
