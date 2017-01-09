@@ -9,12 +9,12 @@ Meldeschluss ist der 31.Mai 2017 oder bei Erreichen der Teilnehmeranzahl.
 
 <a href="" onclick="populate_and_open_modal(event, 'modal-content-anmeldung');" class="btn btn-outline-inverse btn-sm">Anmeldeformular (online)</a>
 
-<a href="/assets/images/ausschreibungstext_mit anmeldung_iwf_2017.pdf" class="btn btn-outline-inverse btn-sm">Anmeldeformular (PDF)</a>
+<a href="/assets/images/ausschreibungstext_mit anmeldung_iwf_2017.pdf" class="btn btn-outline-inverse btn-sm">Ausschreibung mit Anmeldung (PDF)</a>
 
 
 <div class="content-to-populate-in-modal" id="modal-content-anmeldung">
 <h3>Anmeldeformular</h3>
-                  <form class="form-style validate-form clearfix" action="https://formspree.io/gbode@freenet.de" method="POST" role="form">
+                  <form class="form-style validate-form clearfix" action="https://formspree.io/mathiasgoebel@web.de" method="POST" role="form">
                   <!-- input type="hidden" name="_cc" value="gbode@freenet.de" / -->
                   <!-- input type="hidden" name="_subject" value="Weserfahrt – Online-Anmeldung" / -->
                     <div class="col-md-12">
