@@ -88,13 +88,13 @@ Meldeschluss ist der 31.Mai 2017 oder bei Erreichen der Teilnehmeranzahl.
 <h5>freiwillige Angaben</h5>
 <p>In meinem PKW biete ich Platz für Mitfahrer, Zelte und Boote
 <input class="text-field form-control validate-field form-inline" data-validation-type="string" id="form-name" placeholder="Kennzeichen" name="kfz" type="text">
-<div>
+<p>
 <input class="text-field form-control validate-field form-inline" data-validation-type="number" id="form-name" placeholder="Anzahl Mitfahrer" name="pkw.angebot.mitfahrer" type="text">
-<div>
+<p>
 <input class="text-field form-control validate-field form-inline" data-validation-type="number" id="form-name" placeholder="Anzahl Boote" name="pkw.angebot.mitfahrer" type="text">
-<div>
+<p>
 <input class="text-field form-control validate-field form-inline" data-validation-type="number" id="form-name" placeholder="Anzahl Zelte" name="pkw.angebot.boote" type="text"> 
-<div>
+<p>
 <input class="text-field form-control validate-field" data-validation-type="string" id="form-name" placeholder="Abfahrtsort" name="pkw.angebot.abfahrtsort" type="text">
 </p>
 </div>
