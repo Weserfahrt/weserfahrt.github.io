@@ -1023,12 +1023,12 @@ function validate_and_submit_forms(form_object)
                 $(this).find(".form-loader").fadeOut("fast");
                 return false;
             }
-
+var tour = $("*:checked").attr("id");
             // submit form
             $.ajax({
                 type: 'POST',
                 url: form_action,
-                data: $(this).serialize(),
+                data: $(this).serialize()+"&tour=" + tour,
                 dataType: 'json',
                 success: function (data, textStatus, request)
                 {
