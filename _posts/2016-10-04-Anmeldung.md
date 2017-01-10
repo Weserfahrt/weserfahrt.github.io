@@ -91,9 +91,9 @@ Meldeschluss ist der 31.Mai 2017 oder bei Erreichen der Teilnehmeranzahl.
 <p>
 <input class="text-field form-control validate-field form-inline" data-validation-type="number" id="form-name" placeholder="Anzahl Mitfahrer" name="pkw.angebot.mitfahrer" type="text">
 <p>
-<input class="text-field form-control validate-field form-inline" data-validation-type="number" id="form-name" placeholder="Anzahl Boote" name="pkw.angebot.mitfahrer" type="text">
+<input class="text-field form-control validate-field form-inline" data-validation-type="number" id="form-name" placeholder="Anzahl Boote" name="pkw.angebot.boote" type="text">
 <p>
-<input class="text-field form-control validate-field form-inline" data-validation-type="number" id="form-name" placeholder="Anzahl Zelte" name="pkw.angebot.boote" type="text"> 
+<input class="text-field form-control validate-field form-inline" data-validation-type="number" id="form-name" placeholder="Anzahl Zelte" name="pkw.angebot.zelte" type="text"> 
 <p>
 <input class="text-field form-control validate-field" data-validation-type="string" id="form-name" placeholder="Abfahrtsort" name="pkw.angebot.abfahrtsort" type="text">
 </p>
