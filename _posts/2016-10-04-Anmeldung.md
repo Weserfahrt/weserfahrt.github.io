@@ -101,7 +101,7 @@ Meldeschluss ist der 31.Mai 2017 oder bei Erreichen der Teilnehmeranzahl.
                       <div class="form-group">
                         <textarea placeholder="Bemerkungen" class="form-control validate-field" name="bemerkungen"></textarea>
                       </div>
-<p>Per Email erhalten Sie eine Bestätigung der sie auch die Zahlungsmodalitäten entnehmen. Erst mit Erhalt dieser Email und vorbehaltlich des Zahlungseingangs gilt ihre Anmeldung als verbindlich.</p>
+<p>Sie erhalten in den nächsten Tagen per Email eine Bestätigung der sie auch die Zahlungsmodalitäten entnehmen. Erst mit Erhalt dieser Email und vorbehaltlich des Zahlungseingangs gilt ihre Anmeldung als verbindlich.</p>
                       <div class="form-group">
                         <img src="assets/images/theme_images/loader-form.GIF" class="form-loader">
                         <button type="submit" class="btn btn-sm btn-outline-inverse btn-lg btn-block" style="font-size:1em;">Senden</button>
