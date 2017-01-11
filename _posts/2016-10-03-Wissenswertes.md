@@ -1,5 +1,5 @@
 ---
-title: "Verhaltensregeln"
+title: "Wissenswertes"
 background: bg9.jpg
 ---
 Auf der Weser herrscht sehr geringer Bootsverkehr. Die Berufsschifffahrt hat immer Vorfahrt. Personenschiffen,  Fähren und Frachtschiffen muss man als Paddler ausweichen. Bei den Fährschiffen ist zu warten, bis die Fähre wieder am Ufer festgemacht hat, bevor man weiterfährt. Während auf der Oberweser gelegentliche Personenschiffe anzutreffen sind findet man am Minden zunehmend Frachtschiffe, mit denen besonders an Werktagen gerechnet werden kann. Bei Begegnung mit der Berufsschifffahrt sollte man nach Möglichkeit in der Innenkurve fahren.
