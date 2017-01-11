@@ -3,14 +3,11 @@ title: "Anmeldung"
 background: bg8.jpg
 noreadmore: true
 ---
-Anmeldungen zur Fahrt sind hier ab sofort möglich. Bitte füllen Sie das Anmeldeformular vollständig aus und senden es per Mail oder Post an die angegebene Adresse. Von dort erhalten Sie dann eine Anmeldebestätigung mit weiteren Einzelheiten.
+Anmeldungen zur Fahrt sind hier ab sofort möglich. Bitte füllen Sie das Online-Formular vollständig aus und senden ab. Sie erhalten dann zeitnah eine Anmeldebestätigung mit weiteren Einzelheiten.
 
 Meldeschluss ist der 31.Mai 2017 oder bei Erreichen der Teilnehmeranzahl.
 
 <a href="" onclick="populate_and_open_modal(event, 'modal-content-anmeldung');" class="btn btn-outline-inverse btn-sm">Anmeldeformular (online)</a>
-
-<a href="/assets/images/ausschreibungstext_mit anmeldung_iwf_2017.pdf" class="btn btn-outline-inverse btn-sm">Ausschreibung mit Anmeldung (PDF)</a>
-
 
 <div class="content-to-populate-in-modal" id="modal-content-anmeldung">
 <h3>Anmeldeformular</h3>
