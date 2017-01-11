@@ -46,7 +46,7 @@ Meldeschluss ist der 31.Mai 2017 oder bei Erreichen der Teilnehmeranzahl.
 <div class="col-md-7">
 <!-- Vor-, Zuname/ Alter*: -->
                       <div class="form-group">
-                        <input class="text-field form-control validate-field required" data-validation-type="string" id="form-name" placeholder="Vor-, Zuname/ Alter*" name="teilnehmer1" type="text" required="true">
+                        <input class="text-field form-control validate-field required" data-validation-type="string" id="form-name" placeholder="Vor-, Zuname, T-Shirtgröße/ Alter*" name="teilnehmer1" type="text" required="true">
                       </div>
 <!-- Vor-, Zuname/ Alter*: -->
                       <div class="form-group">
