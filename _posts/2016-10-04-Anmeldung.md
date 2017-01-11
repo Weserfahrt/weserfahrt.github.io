@@ -107,9 +107,3 @@ Meldeschluss ist der 31.Mai 2017 oder bei Erreichen der Teilnehmeranzahl.
                       </div>
                       <div class="form-group form-general-error-container"></div>           
                     </div>
-
-                  </form>
-
-
-
-</div>
