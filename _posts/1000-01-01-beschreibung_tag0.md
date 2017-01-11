@@ -4,4 +4,4 @@ nomenu: true
 wandertag: 0
 ---
 
-Am ersten Paddel-Tag starten wir gemeinsam vom Gelände des Mündener Kanu-Clubs auf der Fulda. Danach links halten und nach ca. einem Kilometer in die Schleuse einfahren (Bootsrutsche nicht empfehlenswert). Die ersten Meter paddeln wir noch auf der Fulda, bevor es unterhalb des Wesersteins links in die Weser geht.
+Die Anreise der Teilnehmer sollte möglichst bis 13 Uhr auf dem Gelände des Mündener Kanu-Club erfolgen. Nach dem Aufbau der Zelte ist ein Individueller Besuch der Stadt möglich. Um 18 Uhr erfolgt die Begrüßung und eine erste Fahrtenbesprechung.
