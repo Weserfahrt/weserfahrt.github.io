@@ -7,3 +7,6 @@
     width: auto;
 }
 .fil3, .fil2 { fill:white !important;}
+label {
+ font-weight: 600;
+}
