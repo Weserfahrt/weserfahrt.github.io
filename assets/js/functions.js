@@ -1276,3 +1276,7 @@ function change_bg_on_slide(img) {
     $.vegas({ src:section_custom_background, fade:transition_speed, });
     $.vegas('overlay', { src:'assets/images/theme_images/background-image-overlay-full.png', opacity:overlay_opacity });
 }
+
+$( document ).ready(function(){
+  $("a[href$='.pdf']").attr("target", "_blank");
+});
