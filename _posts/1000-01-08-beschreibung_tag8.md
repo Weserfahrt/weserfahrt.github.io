@@ -4,5 +4,5 @@ nomenu: true
 wandertag: 8
 ---
 
-Hier fehlt noch die Beschreibung für den Streckenabschnitt am 8.Tag
+Ruhetag in der Rattenfängerstadt Hameln, ca. 20 Minuten Fußweg bis zur Stadtmitte, sehr sehenswert, zahlreiche Bauten der Weser-Renaissance, Interessante Stadtführung
 
