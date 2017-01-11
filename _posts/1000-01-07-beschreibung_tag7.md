@@ -7,7 +7,7 @@ wandertag: 7
 
 Die heutige Etappe startet in Rinteln am Kanu-Club und endet beim TV Jahn Minden.
 
-•	Km 163,0 Start der heutigen Etappe,
+•	Km 163,0 Start der heutigen Etappe
 •	Km 167,7 links Eisbergen mit Windmühle
 •	Km 146,5 links Fuhlen, rechts Hessisch Oldendorf
 •	Km 172,5 links Campingplatz am Stemmer See
