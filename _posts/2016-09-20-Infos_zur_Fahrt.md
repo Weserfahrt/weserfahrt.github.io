@@ -37,6 +37,7 @@ Die Teilnahme an der Veranstaltung erfolgt auf eigene Gefahr. Jede Haftung des V
   *  Tourenorganisation
   *  Übernachtung
   *  T-Shirt
+  *  Info-Mappe mit allen Leistungen
   *  Fahrtenbucheinkleber 
   
  - Teilnehmerzahl:
@@ -46,5 +47,3 @@ Die Teilnahme an der Veranstaltung erfolgt auf eigene Gefahr. Jede Haftung des V
   *  Elisabeth Thielbörger, Tel. 05066/4632 – Mail: thielboerger@htp-tel.de
      
 - Meldeschluss:	31.05.2017, bzw. bei Erreichen der max. Teilnehmerzahl
-
-[Ausschreibung mit Anmeldung](/assets/images/ausschreibungstext_mit anmeldung_iwf_2017.pdf)
