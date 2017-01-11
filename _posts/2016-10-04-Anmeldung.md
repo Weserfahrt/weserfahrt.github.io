@@ -7,7 +7,7 @@ Anmeldungen zur Fahrt sind hier ab sofort möglich. Bitte füllen Sie das Online
 
 Meldeschluss ist der 31.Mai 2017 oder bei Erreichen der Teilnehmeranzahl.
 
-<a href="" onclick="populate_and_open_modal(event, 'modal-content-anmeldung');" class="btn btn-outline-inverse btn-sm">Anmeldeformular (online)</a>
+<a href="" onclick="populate_and_open_modal(event, 'modal-content-anmeldung');" class="btn btn-outline-inverse btn-sm">Online - Anmeldung</a>
 
 <div class="content-to-populate-in-modal" id="modal-content-anmeldung">
 <h3>Anmeldeformular</h3>
@@ -46,19 +46,19 @@ Meldeschluss ist der 31.Mai 2017 oder bei Erreichen der Teilnehmeranzahl.
 <div class="col-md-7">
 <!-- Vor-, Zuname/ Alter*: -->
                       <div class="form-group">
-                        <input class="text-field form-control validate-field required" data-validation-type="string" id="form-name" placeholder="Vor-, Zuname, T-Shirtgröße/ Alter*" name="teilnehmer1" type="text" required="true">
+                        <input class="text-field form-control validate-field required" data-validation-type="string" id="form-name" placeholder="Vor-, Zuname, T-Shirt Größe/ Alter*" name="teilnehmer1" type="text" required="true">
                       </div>
 <!-- Vor-, Zuname/ Alter*: -->
                       <div class="form-group">
-                        <input class="text-field form-control validate-field" data-validation-type="string" id="form-name" placeholder="Vor-, Zuname/ Alter*" name="teilnehmer2" type="text">
+                        <input class="text-field form-control validate-field" data-validation-type="string" id="form-name" placeholder="Vor-, Zuname, T-Shirt Größe/ Alter*" name="teilnehmer2" type="text">
                       </div>
 <!-- Vor-, Zuname/ Alter*: -->
                       <div class="form-group">
-                        <input class="text-field form-control validate-field" data-validation-type="string" id="form-name" placeholder="Vor-, Zuname/ Alter*" name="teilnehmer3" type="text">
+                        <input class="text-field form-control validate-field" data-validation-type="string" id="form-name" placeholder="Vor-, Zuname, T-Shirt Größe/ Alter*" name="teilnehmer3" type="text">
                       </div>
 <!-- Vor-, Zuname/ Alter*: -->
                       <div class="form-group">
-                        <input class="text-field form-control validate-field" data-validation-type="string" id="form-name" placeholder="Vor-, Zuname/ Alter*" name="teilnehmer4" type="text">
+                        <input class="text-field form-control validate-field" data-validation-type="string" id="form-name" placeholder="Vor-, Zuname, T-Shirt Größe/ Alter*" name="teilnehmer4" type="text">
                       </div>
 <p>* Angaben bei Jugendlichen erforderlich</p>
 </div>
