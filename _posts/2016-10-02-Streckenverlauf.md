@@ -1,5 +1,5 @@
 ---
-title: Streckenbeschreibungen
+title: Streckenverlauf
 background: bg6.jpg
 carousel: true
 ---
