@@ -16,6 +16,6 @@ Am ersten Paddeltag starten wir gemeinsam vom Gelände des Mündener Kanu-Clubs 
 -	Km 18,7 rechts Bursfelde, am Schwimmsteg anlegen, Gastronomie mit Biergarten, Stiftskirche des Klosters kann besichtigt werden
 -	Km 22,2 links Weißehütte mit Campingplatz und Gastronomie
 -	Km 25,0 rechts Oedelsheim, Achtung Seilfähre, danach rechts Camping Oedelsheim mit Gastronomie.
--	Km 28,0 links Gieselwerder. Am Schwimmsteg beim Ende des Campingplatzes vor der Weserbrücke anlegen. Ende der Tagesetappe.
+-	Km 28,0 links Gieselwerder. Am Campingplatzes an der Rampe anlegen. Ende der Tagesetappe.
 
  
