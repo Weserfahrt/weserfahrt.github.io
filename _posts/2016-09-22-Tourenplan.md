@@ -1,6 +1,6 @@
 ---
 title: "Tourenplan"
-background: bg8.jpg
+background: bg10.jpg
 ---
 Hier können Sie das Rahmenprogramm sowie den Tourenplan der Weserfahrt als PDF-Datei herunterladen.
 Um die PDF-Dateien zu öffnen, benötigen Sie das Zusatzprogramm Adobe Acrobat Reader, welches Sie im Internet kostenfrei herunterladen können.
