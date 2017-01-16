@@ -17,6 +17,6 @@ Die heutige Etappe startet in Rinteln am Kanu-Club und endet beim TV Jahn Minden
 -	Km 189,8 links Rehme, Fähre kreuzt, Gastronomie: Altes Fährhaus
 -	Km 192,1 links Lohbusch, Bauern-Cafe´ mit Biergarten und Hofladen
 -	Km 197,0  Porta Westfalica mit Kaiser-Wilhelm-Denkmal links auf dem Wittekindberg
--	Km 198,00 WSV Porta
+-	Km 198,0 WSV Porta
 -	Km 205,0 rechts TV Jahn und KK Minden, Ende der heutigen Etappe.
 
