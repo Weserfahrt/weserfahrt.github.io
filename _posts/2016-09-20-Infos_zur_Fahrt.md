@@ -36,8 +36,9 @@ Die Teilnahme an der Veranstaltung erfolgt auf eigene Gefahr. Jede Haftung des V
 - Leistungen:
   *  Tourenorganisation
   *  Übernachtung
+  *  Infomappe mit allen Leistungen
   *  T-Shirt
-  *  Info-Mappe mit allen Leistungen
+  *  Bootsaufkleber
   *  Fahrtenbucheinkleber 
   
  - Teilnehmerzahl:
