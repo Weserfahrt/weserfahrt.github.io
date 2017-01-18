@@ -1,6 +1,6 @@
 ---
 title: "Anmeldung"
-background: bg2.jpg
+background: bg 2.jpg
 noreadmore: true
 ---
 Anmeldungen zur Fahrt sind hier ab sofort möglich. Bitte füllen Sie das Online-Formular vollständig aus und senden ab. Sie erhalten dann zeitnah eine Anmeldebestätigung mit weiteren Einzelheiten.
