@@ -3,7 +3,7 @@ title: "Anmeldung"
 background: bg2.jpg
 noreadmore: true
 ---
-Anmeldungen zur Fahrt sind hier ab sofort möglich. Bitte füllen Sie das Online-Formular vollständig aus und senden ab. Sie erhalten dann zeitnah eine Anmeldebestätigung mit weiteren Einzelheiten.
+Anmeldungen zur Fahrt sind hier ab sofort möglich. Bitte füllen Sie das Online-Formular vollständig aus und senden es ab. Sie erhalten dann zeitnah eine Anmeldebestätigung mit weiteren Einzelheiten.
 
 Meldeschluss ist der 31.Mai 2017 oder bei Erreichen der Teilnehmeranzahl.
 
