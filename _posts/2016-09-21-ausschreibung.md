@@ -7,4 +7,3 @@ Um die PDF-Dateien zu öffnen, benötigen Sie das Zusatzprogramm Adobe Acrobat R
 
 <a href="assets/images/Ausschreibungstext _stand_14.1.17.pdf" class="btn btn-outline-inverse btn-sm">Ausschreibung</a>
 
-<a href="/assets/images/Tourenplan%2015%20-29%2007%20%202017.pdf" class="btn btn-outline-inverse btn-sm">Tourenplan</a>
