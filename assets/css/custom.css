@@ -10,3 +10,7 @@
 label {
  font-weight: 600;
 }
+input:checked + span {
+    color: steelblue;
+    font-weight: bold;
+}
