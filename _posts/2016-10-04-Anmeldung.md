@@ -1,5 +1,5 @@
 ---
-title: "1"
+title: ""
 background: bg2.jpg
 noreadmore: true
 ---
