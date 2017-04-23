@@ -3,7 +3,13 @@ title: "Anmeldung"
 background: bg2.jpg
 noreadmore: true
 ---
-Anmeldungen zur Fahrt sind hier ab sofort nicht mehr möglich. Die Fahrt ist ausgebucht. Es sind nur noch einzelne Teilstrecken verfügbar. Für weitere Fragen nehmen Sie Kontakt mit  
+Anmeldungen zur Fahrt sind hier ab sofort nicht mehr möglich. Die Fahrt ist ausgebucht. Es sind nur noch einzelne Teilstrecken verfügbar. Für weitere Fragen kontaktieren Sie bitte die Referentin für die Internationale Weserfahrt:
+Elisabeth Thielbörger
+
+Lortzingstr. 32
+D-31157 Sarstedt
+Telefon: +49 (5066) 4632
+E-Mail: thielboerger@htp-tel.de  
 
 <a href="" onclick="populate_and_open_modal(event, 'modal-content-anmeldung');" class="btn btn-outline-inverse btn-sm">Online - Anmeldung</a>
 
