@@ -7,7 +7,7 @@ Anmeldungen zur Fahrt sind hier ab sofort möglich. Bitte füllen Sie das Online
 
 Meldeschluss ist der 31.Mai 2017 oder bei Erreichen der Teilnehmeranzahl.
 
-<a href="" onclick="populate_and_open_modal(event, 'modal-content-anmeldung');" class="btn btn-outline-inverse btn-sm">Online - Anmeldung</a>
+<a href="" onclick="populate_and_open_modal(event, 'modal-content-anmeldung');" class="btn btn-outline-inverse btn-sm">Online - Anmeldun g</a>
 
 <div class="content-to-populate-in-modal" id="modal-content-anmeldung">
 <h3>Anmeldeformular</h3>
