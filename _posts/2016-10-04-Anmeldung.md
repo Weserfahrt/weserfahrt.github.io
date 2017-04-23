@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Anmeldung"
 background: bg2.jpg
 noreadmore: true
 ---
