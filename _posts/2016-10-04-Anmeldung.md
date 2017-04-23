@@ -3,9 +3,7 @@ title: "Anmeldung"
 background: bg2.jpg
 noreadmore: true
 ---
-Anmeldungen zur Fahrt sind hier ab sofort möglich. Bitte füllen Sie das Online-Formular vollständig aus und senden es ab. Sie erhalten dann zeitnah eine Anmeldebestätigung mit weiteren Einzelheiten.
-
-Meldeschluss ist der 31.Mai 2017 oder bei Erreichen der Teilnehmeranzahl.
+Anmeldungen zur Fahrt sind hier ab sofort nicht mehr möglich. Die Fahrt ist ausgebucht. Es sind nur noch einzelne Teilstrecken verfügbar. Für weitere Fragen nehmen Sie Kontakt mit  
 
 <a href="" onclick="populate_and_open_modal(event, 'modal-content-anmeldung');" class="btn btn-outline-inverse btn-sm">Online - Anmeldung</a>
 
