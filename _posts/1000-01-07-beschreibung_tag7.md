@@ -11,7 +11,7 @@ Die heutige Etappe startet in Rinteln am Kanu-Club und endet beim TV Jahn Minden
 -	Km 166,4 Einfahrt Doktorsee Campingplatz
 -	Km 167,7 rechts Eisbergen mit Windmühle
 -	Km 174,1 rechts Veltheim, Fähre kreuzt (nur am Wochenende)
--	Km 180,0 rechts Borlefzen, Campingplatz und Gastronomie
+-	Km 181,0 rechts Borlefzen, Campingplatz Sonnenwiese und Gastronomie
 -	Km 183,5 links Vlotho, Gastronomie und Einkauf, Schwimmsteg
 -	Km 187,4 rechts Vössen, kleiner Campingplatz
 -	Km 189,8 links Rehme, Fähre kreuzt, Gastronomie: Altes Fährhaus
