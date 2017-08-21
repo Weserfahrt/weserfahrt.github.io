@@ -13,7 +13,7 @@ Telefon: +49 (5066) 4632
 E-Mail: <thielboerger@htp-tel.de>
 
 
-<a href="" onclick="populate_and_open_modal(event, 'modal-content-anmeldung');" class="btn btn-outline-inverse btn-sm">Online - Anmeldung erzeit nicht möglich</a>
+<a href="" onclick="populate_and_open_modal(event, 'modal-content-anmeldung');" class="btn btn-outline-inverse btn-sm">Online - Anmeldung derzeit nicht möglich</a>
 
 <div class="content-to-populate-in-modal" id="modal-content-anmeldun g">
 <h3>Anmeldeformular</h3>
