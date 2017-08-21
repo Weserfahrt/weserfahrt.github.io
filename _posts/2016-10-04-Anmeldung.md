@@ -3,7 +3,7 @@ title: "Anmeldung"
 background: bg2.jpg
 noreadmore: true
 ---
-Online-Anmeldungen zur Fahrt im Jahre 2017 sind hier derzeit nicht mehr möglich. Die Fahrt ist ausgebucht. Es sind nur noch wenige Teilstrecken verfügbar. Für weitere Fragen einer Teilnahme kontaktieren Sie bitte die Referentin für die Internationale Weserfahrt telefonisch oder per Mail.
+Online-Anmeldungen zur Fahrt im Jahre 2019 sind derzeit nicht möglich. Für weitere Fragen einer Teilnahme kontaktieren Sie bitte die Referentin für die Internationale Weserfahrt telefonisch oder per Mail.
 
 
 #### Elisabeth Thielbörger
