@@ -9,4 +9,4 @@ Um die PDF-Dateien zu öffnen, benötigen Sie das Zusatzprogramm Adobe Acrobat R
 <a href="assets/images/Tourenplan_IWF_2017.pdf" class="btn btn-outline-inverse btn-sm">Tourenplan 2017</a>
 
 
-<a href="assets/images/Tourenplan_IWF_2019.pdf" class="btn btn-outline-inverse btn-sm">Tourenplan 2019</a>
+<a href="assets/images/Ankuendigung _2019_Weserfahrt.pdf" class="btn btn-outline-inverse btn-sm">Tourenplan 2019</a>
