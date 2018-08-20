@@ -1,7 +1,7 @@
 ---
-title: Beschreibung Tag 2
+title: Beschreibung Tag 3
 nomenu: true
-wandertag: 2
+wandertag: 3
 ---
 
 Die heutige Etappe startet vom Campingplatz in Gieselwerder und endet beim Kanuverein Wassersport Höxter. Unterwegs bieten sich viele Rast- und Besichtigungsmöglichkeiten an.  
