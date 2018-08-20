@@ -1,7 +1,7 @@
 ---
-title: Beschreibung Tag 14
+title: Beschreibung Tag 15
 nomenu: true
-wandertag: 14
+wandertag: 15
 ---
 
 Die  heutige und letzte Etappe unserer Weserfahrt beginnt beim KC Rönnebeck und endet im Nordenhamer Sportboothafen beim WSV Nordenham.
