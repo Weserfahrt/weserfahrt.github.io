@@ -1,7 +1,7 @@
 ---
-title: Beschreibung Tag 11
+title: Beschreibung Tag 12
 nomenu: true
-wandertag: 11
+wandertag: 12
 ---
 
 Die heutige Etappe beginnt in Hoya und endet beim WSV Drosselhof
