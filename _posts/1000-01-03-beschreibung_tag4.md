@@ -1,7 +1,7 @@
 ---
-title: Beschreibung Tag 3
+title: Beschreibung Tag 4
 nomenu: true
-Wandertag: 3
+Wandertag: 4
 ---
 Die heutige Etappe startet beim Kanuverein Wassersport Höxter und endet am Campingplatz Rühler Schweiz.
 
