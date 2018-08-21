@@ -1,7 +1,7 @@
 ---
-title: Beschreibung Tag 13
+title: Beschreibung Tag 14
 nomenu: true
-wandertag: 13
+wandertag: 14
 ---
 
 Die heutige Etappe beginnt bei den Bremer Kanu-Wanderern und endet beim KC Rönnebeck
