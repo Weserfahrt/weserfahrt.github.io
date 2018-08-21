@@ -1,10 +1,10 @@
 ---
 
-title: Beschreibung Tag 9
+title: Beschreibung Tag 10
 
 nomenu: true
 
-wandertag: 9
+wandertag: 10
 
 ---
 
