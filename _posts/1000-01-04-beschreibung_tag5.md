@@ -1,7 +1,6 @@
 ---
-title: Beschreibung Tag 4
-nomenu: true
-wandertag: 4
+title: Beschreibung Tag 5
+wandertag: 5
 ---
 
 Die heutige Etappe startet am Campingplatz Rühler Schweiz und endet am Kanu-Club Hameln.
