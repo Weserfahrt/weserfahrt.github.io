@@ -1,7 +1,7 @@
 ---
-title: Beschreibung Tag 6
+title: Beschreibung Tag 7
 nomenu: true
-wandertag: 6 
+wandertag: 7
 ---
 
 Die heutige Etappe startet am Kanu-Club Hameln und endet in Rinteln am Kanu-Club.
