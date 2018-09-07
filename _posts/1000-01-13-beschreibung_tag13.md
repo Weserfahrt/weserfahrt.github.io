@@ -5,4 +5,4 @@ wandertag: 13
 ---
 
 
-Ruhetag in Minden mit Kulturprogramm
+Ruhetag in Bremen mit Kulturprogramm
