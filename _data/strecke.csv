@@ -4,14 +4,14 @@ tag,datum,abfahrt,ziel,strecke,bemerkung,verein
 3,13.07.19,Lippoldsberg,Höxter,36,Die Beschreibung des Fahrtenablaufs für diesen Tag soll hier erscheinen,Wassersport Höxter
 4,14.07.19,Höxter,Rühle,40,Die Beschreibung des Fahrtenablaufs für diesen Tag soll hier erscheinen,Campingplatz Rühler Schweiz
 5,15.07.19,Rühle,Hameln,28,,Kanu-Club Hameln
-6,16.07.19,Hameln,Hameln,0,Ruhetag,Kanu-Club Hameln
-7,17.07.19,Hameln,Rinteln,28,,Rintelner Kanu-Club
-8,18.07.19,Rinteln,Minden,40,,Kanu-Klub Minden und TV Jahn
-9,19.07.19,Minden,Minden,0,Ruhetag,Kanu-Klub Minden und TV Jahn
-10,20.07.19,Minden,Landesbergen,46,,Wassersportverein Landesbergen
-11,21.07.19,Landesbergen,Hoya,49,,Wassersportverein Hoya
-12,22.07.19,Hoya,Achim,35,,Campingplatz Drosselhof
-13,23.07.19,Achim,Bremen-Hastedt,31,,Bremer Kanuwanderer
+6,16.07.19,Hameln,Rinteln,28,,Kanu-Club Hameln
+7,17.07.19,Rinteln,Minden,40,,Kanu-Klub Minden und TV Jahn
+8,18.07.19,Minden,Minden,0,Ruhetag,Kanu-Klub Minden und TV Jahn
+9,19.07.19,Minden,Landesbergen,46,,Wassersportverein Landesbergen
+10,20.07.19,Landesbergen,Hoya,49,,Wassersportverein Hoya
+11,21.07.19,Hoya,Achim,35,,Campingplatz Drosselhof
+12,22.07.19,Achim,Bremen-Hastedt,31,,Bremer Kanuwanderer
+13,23.07.19,Bremen,Bremen-Hastedt,0,Ruhetag,Bremer Kanuwanderer
 14,24.07.19,Bremen-Hastedt,Rönnebeck,26,,KC Rönnebeck
 15,25.07.19,Rönnebeck,Brake/Harriersand,33,,Harriersand
 16,26.07.19,Brake/Harriersand,Nordenham,33,,WSV Nordenham
