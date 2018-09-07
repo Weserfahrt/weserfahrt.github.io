@@ -1,7 +1,7 @@
 ---
-title: Beschreibung Tag 9
+title: Beschreibung Tag 8
 nomenu: true
-wandertag: 9
+wandertag: 8
 ---
 
 Ruhetag in Minden mit Kulturprogramm
