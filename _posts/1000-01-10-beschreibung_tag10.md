@@ -1,7 +1,7 @@
 ---
-title: Beschreibung Tag 11
+title: Beschreibung Tag 10
 nomenu: true
-wandertag: 11
+wandertag: 10
 ---
 
 Die heutige Etappe beginnt beim KC Landesbergen und endet beim WSV Hoya
