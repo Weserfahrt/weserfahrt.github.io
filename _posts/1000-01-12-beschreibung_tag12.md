@@ -1,7 +1,7 @@
 ---
-title: Beschreibung Tag 13
+title: Beschreibung Tag 12
 nomenu: true
-wandertag: 13
+wandertag: 12
 ---
 
 
