@@ -4,5 +4,5 @@ nomenu: true
 wandertag: 17
 ---
 
-Hier fehlt noch Text
+Abreise und Rücktransport der Fahrzeuge
 
