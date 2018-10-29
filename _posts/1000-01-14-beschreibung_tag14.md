@@ -7,7 +7,7 @@ wandertag: 14
 Die heutige Etappe beginnt bei den Bremer Kanu-Wanderern und endet beim KC Rönnebeck
 
 -	Km 366,8 an der Wilhelm-Kaisen-Brücke beginnt eine neue Kilometrierung             
-- Km 366,8 = 0,0
+- Km 366,8 = 0,0 (Hier beginnt die Seeschifffahrtsstraße)
 -	Km 4,0 rechts Europahafen, links Rablinghausen
 -	Km 5,5 rechts Überseehafen
 -	Km 6,2 links Insel, Vogelschutzgebiet
