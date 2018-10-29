@@ -5,9 +5,8 @@ wandertag: 12
 ---
 
 
-Die heutige Etappe beginnt beim WSV Drosselhof und endet bei den Bremer Kanu-Wanderern.
+Die heutige Etappe beginnt beim WSV Achim-Thedinghausen und endet bei den Bremer Kanu-Wanderern.
 
--	Km 340,0 Badener Berg, letzter Geestrücken an der Mittelweser, Beginn der Staustrecke Wehr Bremen-Hemelingen
 -	Km 344,2 von links Zufluss der Eiter
 -	Km 357,2 rechts vor Brücke „Eisenbahnsportverein“
 -	KM 357.5  Einfahrt zum Autobahnsee und Landesteg von „Wiking Faltbootwanderer“ e.V. Kirchweyhe
