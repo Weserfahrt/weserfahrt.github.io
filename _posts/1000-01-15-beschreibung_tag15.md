@@ -4,7 +4,7 @@ nomenu: true
 wandertag: 15
 ---
 
-Die  heutige und letzte Etappe unserer Weserfahrt beginnt beim KC Rönnebeck und endet im Nordenhamer Sportboothafen beim WSV Nordenham.
+Die  heutige und letzte Etappe unserer Weserfahrt beginnt beim KC Rönnebeck und endet auf dem Harriersand bei Brake.
 
 -	Km 25,3 Wagenfähre B 74, rechts Farge, Fährhaus mit Schiffsansage, links Juliusplate mit Campingplatz Berne 
 -	Km 27,9 rechts ehemaliger U-Boot-Bunker: Museum u. Ausstellung zur Geschichte des Bunkers
@@ -12,7 +12,10 @@ Die  heutige und letzte Etappe unserer Weserfahrt beginnt beim KC Rönnebeck und
 -	Km 32,0 links Zuflluss der Hunte mit markanter Klappbrücke
 -	Km 33,5 Großer Patersand, Domänenbauern
 -	Km 34,6 links Oberhammelwarden mit Campingplatz
--	Km 38,5 rechts Harriersand, Camping möglich, links Brake m. Schifffahrtsmuseum und hervorragendem Fischrestaurant
+-	Km 38,5 rechts Harriersand, links Brake mit Schifffahrtsmuseum und hervorragendem Fischrestaurant
+-	Km 44,5 rechts Zeltplatz Harriersand. Hier endet unsere heutige Etappe.
+
+
 -	Km 44,5 Sandstedt  Wagenfähre!  Golzwarden – Sandstedt
 -	Km 45,0 links Strohauser Plate NSG
 -	Km 50,9 rechts Zufluss der Lune
