@@ -4,7 +4,7 @@ nomenu: true
 wandertag: 15
 ---
 
-Die  heutige und letzte Etappe unserer Weserfahrt beginnt beim KC Rönnebeck und endet auf dem Harriersand bei Brake.
+Die heutige Etappe unserer Weserfahrt beginnt beim KC Rönnebeck und endet auf dem Harriersand bei Brake.
 
 -	Km 25,3 Wagenfähre B 74, rechts Farge, Fährhaus mit Schiffsansage, links Juliusplate mit Campingplatz Berne 
 -	Km 27,9 rechts ehemaliger U-Boot-Bunker: Museum u. Ausstellung zur Geschichte des Bunkers
