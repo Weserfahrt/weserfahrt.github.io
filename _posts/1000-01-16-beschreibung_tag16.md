@@ -4,4 +4,6 @@ nomenu: true
 wandertag: 16
 ---
 
-Hier fehlt noch Text
+Unser letzter Paddeltag beginnt auf dem Harriersand und endet in Nordenham
+
+
