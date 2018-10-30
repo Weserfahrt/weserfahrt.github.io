@@ -2,7 +2,7 @@
 title: "Tourenplan"
 background: bg10.jpg
 ---
-Hier können Sie den Tourenplan der Weserfahrt aus dem Jahr 2017 als PDF-Datei herunterladen.
+Hier können Sie den Tourenplan der Weserfahrt 2019 als PDF-Datei herunterladen.
 Um die PDF-Dateien zu öffnen, benötigen Sie das Zusatzprogramm Adobe Acrobat Reader, welches Sie im Internet kostenfrei herunterladen können.
 
 
