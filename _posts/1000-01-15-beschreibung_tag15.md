@@ -13,12 +13,4 @@ Die heutige Etappe unserer Weserfahrt beginnt beim KC Rönnebeck und endet auf d
 -	Km 33,5 Großer Patersand, Domänenbauern
 -	Km 34,6 links Oberhammelwarden mit Campingplatz
 -	Km 38,5 rechts Harriersand, links Brake mit Schifffahrtsmuseum und hervorragendem Fischrestaurant
--	Km 44,5 rechts Zeltplatz Harriersand. Hier endet unsere heutige Etappe.
-
-
--	Km 44,5 Sandstedt  Wagenfähre!  Golzwarden – Sandstedt
--	Km 45,0 links Strohauser Plate NSG
--	Km 50,9 rechts Zufluss der Lune
--	Km 51,6 links Zufluss der Schweiburg bei Hochwasser interessant zu befahren. Links Kernkraftwerk Unterweser, abgeschaltet. 
--	Km 53,4 rechts Dedesdorf, links Kleinensiel – Hier verläuft der Wesertunnel.
--	Km 56,0 links Großensiel mit Tidehafen, Nordenhamer Sportboothafen. Hier Einfahrt zum WSV Nordenham.  Hier endet unsere letzte Etappe.
+-	Km 44,5 rechts Zeltplatz Harriersand. Hier endet unsere heutige Etappe.-	
