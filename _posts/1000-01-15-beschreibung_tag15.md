@@ -13,4 +13,4 @@ Die heutige Etappe unserer Weserfahrt beginnt beim KC Rönnebeck und endet auf d
 -	Km 33,5 Großer Patersand, Domänenbauern
 -	Km 34,6 links Oberhammelwarden mit Campingplatz
 -	Km 38,5 rechts Harriersand, links Brake mit Schifffahrtsmuseum und hervorragendem Fischrestaurant
--	Km 44,5 rechts Zeltplatz Harriersand. Hier endet unsere heutige Etappe.-	
+-	Km 44,5 rechts Zeltplatz Harriersand. Hier endet unsere heutige Etappe.	
