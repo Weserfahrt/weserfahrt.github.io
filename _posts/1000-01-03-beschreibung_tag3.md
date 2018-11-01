@@ -11,7 +11,7 @@ Die heutige Etappe startet von der Zeltwiese in Lippoldsberg und endet beim Kanu
 -	Km 35,8 rechts Wahmbeck, kleiner Ort mit Fährbetrieb
 -	Km 35,8 links Gewissenruh, Rastplatz neben dem Fähranleger
 -	Km 44.0 links Bad Karlshafen, sehenswerte Barockstadt
--	Km 44,7 links Mündung der Diemel, rechts Anlegemöglichkeit am Campingplatz
+-	Km 44,7 links Mündung der Diemel, rechts Anlegemöglichkeit am Campingplatz - Gastronomie, WC
 -	Km 47,0 Herstelle links, rechts Anleger in Würgassen mit kleiner Personenfähre
 -	Km 49,0 rechts die Reste des AKW Würgassen
 -	Km 51,7 links Bootshaus Beverungen, große Zeltwiese, Rastplatz, Gastronomie
