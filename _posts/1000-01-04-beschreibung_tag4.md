@@ -14,7 +14,7 @@ Die heutige Etappe startet beim Kanuverein Wassersport Höxter und endet am Camp
 -	Km 92,5 links Polle, Schwimmstege vor oder am des Campingplatzes anlegen, Strömung!  Gastronomie Einkaufsmöglichkeiten wenige Meter vom Anleger entfernt, Burgruine Polle, angeblich Wohnsitz von Aschenputtel, schöner Blick über das Wesertal
 -	Km 94,5 links Brevörde
 -	Km 97,5 rechts Reileifzen mit Weserimbiss, direkt am Ufer, Treppe oder Schräge vor dem Schiffsanleger nutzen
--	Km 99,1 Solar-Fähre kreuzt, links  kleiner Campingplatz Grave
+-	Km 99,1 Solar-Fähre kreuzt, links kleiner Campingplatz Grave, Rastplatz
 -	Km 101,0 links Steinmühle, Beginn der Engtalstrecke bis Bodenwerder
 -	Km 102,1 rechts Dölme
 -	Km 106,7 rechts Ende der Etappe am Campingplatz Rühler Schweiz. Aussteigen an der Rampe. Ende der heutigen Etappe.
