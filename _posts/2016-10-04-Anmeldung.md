@@ -3,6 +3,8 @@ title: "Anmeldung"
 background: bg2.jpg
 ---
 Hier können Sie das Anmeldeformular herunterladen und direkt am PC ausfüllen.
+
+
 <a href="assets/images/Anmeldeformular_ausfuellbar_2019.pdf
 " class="btn btn-outline-inverse btn-sm">Anmeldung 2019</a>
 
