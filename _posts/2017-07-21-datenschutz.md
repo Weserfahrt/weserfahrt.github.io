@@ -3,8 +3,6 @@ title: "Datenschutz"
 background: bg3.jpg
 ---
 
-
-#### Datenschutzerklärung
 Diese Datenschutzerklärung soll die Nutzer der Internetseite über Art, Umfang und Zweck der Erhebung und Verwendung von personenbezogenen Daten durch den Webseitenbetreiber informieren. Die Kontaktdaten des Webseitenbetreibers finden Sie in unserem Impressum.
 Wir als Webseitenbetreiber nehmen den Datenschutz sehr ernst und behandeln Ihre personenbezogenen Daten vertraulich und nur nach den gesetzlichen Vorschriften. In dieser Datenschutzerklärung nutzen wir Begriffe (z.B. “personenbezogene Daten” oder “Verarbeitung”), die in Art. 4 der DS-GVO definiert sind.
  
