@@ -23,5 +23,5 @@ Als Nutzer haben Sie das Recht, auf Antrag eine kostenlose Auskunft darüber zu 
 ###### Löschung von Daten 
 Als Nutzer haben Sie ein Anrecht auf Löschung Ihrer Daten, sofern dies nicht mit einer gesetzlichen Pflicht zur Aufbewahrung von Daten kollidiert. Von uns gespeicherte Daten werden gelöscht, sollten diese für ihre Zweckbestimmung nicht mehr notwendig sein oder es keine gesetzliche Aufbewahrungsfristen gibt. Falls eine Löschung nicht möglich ist, da die Daten für zulässige gesetzliche Zwecke erforderlich sind, erfolgt eine Einschränkung der Datenverarbeitung. In diesem Fall werden die Daten gesperrt und nicht mehr für andere Zwecke verarbeitet.
  
-Widerspruchsrecht 
+###### Widerspruchsrecht 
 Nutzer dieser Webseite können von ihrem Widerspruchsrecht Gebrauch machen und der Verarbeitung ihrer personenbezogenen Daten zu jeder Zeit widersprechen. Wenn Sie eine Berichtigung, Sperrung, Löschung oder Auskunft über die zu Ihrer Person gespeicherten personenbezogenen Daten wünschen oder Fragen bzgl. der Erhebung, Verarbeitung oder Verwendung Ihrer personenbezogenen Daten haben oder erteilte Einwilligungen widerrufen möchten, wenden Sie sich bitte an unsere Kontaktinformationen im Impressum.
