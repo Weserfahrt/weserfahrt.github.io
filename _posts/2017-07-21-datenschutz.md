@@ -9,10 +9,10 @@ background: bg3.jpg
 Diese Datenschutzerklärung soll die Nutzer der Internetseite über Art, Umfang und Zweck der Erhebung und Verwendung von personenbezogenen Daten durch den Webseitenbetreiber informieren. Die Kontaktdaten des Webseitenbetreibers finden Sie in unserem Impressum.
 Wir als Webseitenbetreiber nehmen den Datenschutz sehr ernst und behandeln Ihre personenbezogenen Daten vertraulich und nur nach den gesetzlichen Vorschriften. In dieser Datenschutzerklärung nutzen wir Begriffe (z.B. “personenbezogene Daten” oder “Verarbeitung”), die in Art. 4 der DS-GVO definiert sind.
  
-Erfassung und Verarbeitung personenbezogener Daten
+###### Erfassung und Verarbeitung personenbezogener Daten
 Grundsätzlich ist die Nutzung unserer Internetseite ohne Angabe personenbezogener Daten möglich. Sollte der Nutzer jedoch eine Funktion nutzen wollen, die eine Angabe von personenbezogenen Daten erfordert, verarbeitet der Webseitenbetreiber die personenbezogenen Daten nur mit einer entsprechenden gesetzlichen Grundlage oder einer Einwilligung der betroffenen Person. Als personenbezogene Daten gelten sämtliche Informationen, die sich einer bestimmten oder bestimmbaren natürlichen Person zuordnen lassen - also beispielsweise Ihr Name, Ihre E-Mail-Adresse oder Telefonnummer.
  
-Umgang mit Kontaktdaten 
+###### Umgang mit Kontaktdaten 
 Nehmen Sie durch die angebotenen Kontaktmöglichkeiten Verbindung mit uns auf, werden Ihre Angaben zur Bearbeitung und Beantwortung Ihrer Anfrage verarbeitet. Ohne Ihre Einwilligung werden diese Daten nicht an Dritte weitergegeben.
   
 Google Web Fonts
