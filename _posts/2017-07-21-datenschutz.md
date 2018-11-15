@@ -1,6 +1,6 @@
 ---
 title: "Datenschutz"
-background: bg3.jpg
+background: bg21.jpg
 ---
 
 Diese Datenschutzerklärung soll die Nutzer der Internetseite über Art, Umfang und Zweck der Erhebung und Verwendung von personenbezogenen Daten durch den Webseitenbetreiber informieren. Die Kontaktdaten des Webseitenbetreibers finden Sie in unserem Impressum.
