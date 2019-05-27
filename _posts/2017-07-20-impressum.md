@@ -10,8 +10,8 @@ D-30453 Hannover
 
 Telefon: +49 (511) 2101199  
 Telefax: +49 (511) 4584349  
-E-Mail: info@lkv-nds.de  
-Internet: www.lkv-nds.de
+E-Mail: info@kanu-niedersachsen.de  
+Internet: www.kanu-niedersachsen.de
 
 ###### Vertreten durch:
 
