@@ -15,4 +15,4 @@ Für weitere Fragen einer Teilnahme kontaktieren Sie bitte die Referentin für d
 Lortzingstr. 32  
 D-31157 Sarstedt  
 Telefon: +49 (5066) 4632  
-E-Mail: <thielboerger@htp-tel.de>
+E-Mail: <weserfahrt@kanu-niedersachsen.de>
