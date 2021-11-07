@@ -11,7 +11,7 @@ Speichen sie es danach ab und senden es per Mail oder Post an die unten angegebe
 Sie erhalten dann eine Bestätigung, der sie auch die Zahlungsmodalitäten entnehmen. Erst mit Erhalt dieser Bestätigung und vorbehaltlich des Zahlungseingangs gilt ihre Anmeldung als verbindlich.
 Für weitere Fragen einer Teilnahme kontaktieren Sie bitte den 
 
-### Landes-Kanu-Verband Niedersachsen e.V.
+### Landes-Kanu-Verband Niedersachse e.V.
 
 
 DKV-Weg 19,
