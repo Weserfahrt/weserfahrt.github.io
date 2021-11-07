@@ -21,7 +21,7 @@ DKV-Weg 19,
 Ortsteil Mardorf 
 
 Ansprechpartnerin:
-Cindy Heinemann
+### Cindy Heinemann
 Tel.: + 49 (0)511 10 56 12 69
 Fax: + 49 (0)511 458 43 49
 E-Mail: info@kanu-niedersachsen.de
