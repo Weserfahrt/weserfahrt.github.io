@@ -16,12 +16,6 @@ DKV-Weg 19,
 31535 Neustadt am Rübenberge
 Ortsteil Mardorf 
 
-Öffnungszeiten:
-Montag bis Mittwoch 9:00 bis 15:00 Uhr
-Freitag 9:00 bis 14:00 Uhr
-
- 
-
 Ansprechpartnerin:
 Cindy Heinemann
 Tel.: + 49 (0)511 10 56 12 69
