@@ -4,8 +4,9 @@ background: bg3.jpg
 ---
 
 #### Landes-Kanu-Verband Niedersachsen e.V.
-Rosenbuschweg 9b  
-D-30453 Hannover
+DKV-Weg 19
+31535 Neustadt am Rübenberge
+Ortsteil Mardorf
 
 
 Telefon: +49 (511) 2101199  
