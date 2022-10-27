@@ -17,6 +17,6 @@ Am ersten Paddeltag starten wir gemeinsam vom Gelände des Mündener Kanu-Clubs 
 -	Km 22,2 links Weißehütte mit Campingplatz und Gastronomie
 -	Km 25,0 rechts Oedelsheim, Achtung Seilfähre, danach rechts Camping Oedelsheim mit Gastronomie.
 -	Km 28,0 links Gieselwerder. 
--	Km 31,7 rechts Lippoldsberg. Vor der Fähre rechts aussteigen. Ende der Tagesetappe.
-
+-	Km 31,7 rechts Lippoldsberg. 
+-	Km 32,8 rechts Bodenfelde. 
  
