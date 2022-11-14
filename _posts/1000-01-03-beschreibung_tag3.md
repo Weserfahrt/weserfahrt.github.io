@@ -4,7 +4,7 @@ nomenu: true
 wandertag: 3
 ---
 
-Die heutige Etappe startet vom Campingplatz Karlshafen und endet beim Ruderclub Holzminden. Unterwegs bieten sich viele Rast- und Besichtigungsmöglichkeiten an.  
+Die heutige Etappe startet vom Campingplatz Karlshafen und endet beim Kanu-Klub Holzminden. Unterwegs bieten sich viele Rast- und Besichtigungsmöglichkeiten an.  
 
 -	Km 44.9 Start in Bad Karlshafen
 -	Km 44,7 links Mündung der Diemel, rechts Anlegemöglichkeit am Campingplatz - Gastronomie, WC
@@ -19,5 +19,5 @@ Die heutige Etappe startet vom Campingplatz Karlshafen und endet beim Ruderclub 
 -	Km 68,0 rechts Höxter,Bootshaus von Wassersport Höxter
 -	Km 71,0 links Kloster Corvey, sehenswert, Anleger links hinter der Brücke
 -	Km 73,0 rechts Lüchtringen
--	Km 81,0 Strassenbrücke Holzminden, rechts dahinter am Steg des des Ruderclub Holzminden aussteigen, Boote über den ansteigenden Weg zum Vereinshaus transportieren, Bootswagen benutzen.Ende der heutigen Etappe 
+-	Km 80,2 Strassenbrücke Holzminden, rechts links am Steg des des Kanu-Klub Holzminden aussteigen. Ende der heutigen Etappe 
 
