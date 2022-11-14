@@ -17,4 +17,7 @@ Die heutige Etappe startet von der Zeltwiese in Lippoldsberg und endet beim Kanu
 -	Km 63,2 rechts Fürstenberg, oberhalb Schloss Fürstenberg mit Porzellanmanufaktur
 - Km 65,5 rechts Boffzen
 -	Km 68,0 rechts Höxter,Bootshaus von Wassersport Höxter
+-	Km 71,0 links Kloster Corvey, sehenswert, Anleger links hinter der Brücke
+-	Km 73,0 rechts Lüchtringen
+-	Km 81,0 Strassenbrücke Holzminden, rechts dahinter am Steg des des Ruderclub Holzminden aussteigen, Boote über den ansteigenden Weg zum Vereinshaus transportieren, Bootswagen benutzen. 
 
