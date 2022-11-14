@@ -8,7 +8,7 @@ Die heutige Etappe startet beim Kanuverein Wassersport Höxter und endet am Camp
 -	Km 68,0 links Höxter, Start der heutigen Etappe
 -	Km 71,0 links Kloster Corvey, sehenswert, Anleger links hinter der Brücke
 -	Km 73,0 rechts Lüchtringen
--	Km 80,1 links Kanu-Klub Holzminden, Schwimmnsteg, kurzer Weg in die Stadt, Einkaufsmöglichkeit
+-	Km 80,1 links Kanu-Klub Holzminden, Schwimmsteg, kurzer Weg in die Stadt, Einkaufsmöglichkeit
 -	Km 89,8 Fähre Heinsen kreuzt, links Ortschaft mit Dorfbackofen, schönem Kaffeegarten
 -	Km 92,1 Fähre bei Polle kreuzt
 -	Km 92,5 links Polle, Schwimmstege vor oder am des Campingplatzes anlegen, Strömung!  Gastronomie Einkaufsmöglichkeiten wenige Meter vom Anleger entfernt, Burgruine Polle, angeblich Wohnsitz von Aschenputtel, schöner Blick über das Wesertal
