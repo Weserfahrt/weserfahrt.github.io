@@ -19,5 +19,5 @@ Die heutige Etappe startet vom Campingplatz Karlshafen und endet beim Kanu-Klub 
 -	Km 68,0 rechts Höxter,Bootshaus von Wassersport Höxter
 -	Km 71,0 links Kloster Corvey, sehenswert, Anleger links hinter der Brücke
 -	Km 73,0 rechts Lüchtringen
--	Km 80,2 Strassenbrücke Holzminden, rechts links am Steg des des Kanu-Klub Holzminden aussteigen. Ende der heutigen Etappe 
+-	Km 80,2 Strassenbrücke Holzminden, links am Steg des des Kanu-Klub Holzminden aussteigen. Ende der heutigen Etappe 
 
