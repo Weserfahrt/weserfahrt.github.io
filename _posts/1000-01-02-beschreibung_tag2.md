@@ -21,5 +21,5 @@ Am ersten Paddeltag starten wir gemeinsam vom Gelände des Mündener Kanu-Clubs 
 -	Km 32,8 rechts Bodenfelde.
 -	Km 35,8 rechts Wahmbeck, kleiner Ort mit Fährbetrieb
 -	Km 35,8 links Gewissenruh, Rastplatz neben dem Fähranleger
--	Km 44.9 rechts Campingplatz Bad Karlshafen,hier am Steg aussteigen.Ende der Tagesettappe. 
+-	Km 44.9 Strassenbrücke danach rechts Campingplatz Bad Karlshafen,hier am Steg aussteigen.Ende der heutigen Etappe. 
  
