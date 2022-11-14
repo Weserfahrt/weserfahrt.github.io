@@ -4,7 +4,7 @@ nomenu: true
 wandertag: 3
 ---
 
-Die heutige Etappe startet von der Zeltwiese in Lippoldsberg und endet beim Kanuverein Wassersport Höxter. Unterwegs bieten sich viele Rast- und Besichtigungsmöglichkeiten an.  
+Die heutige Etappe startet vom Campingplatz Karlshafen und endet beim Ruderclub Holzminden. Unterwegs bieten sich viele Rast- und Besichtigungsmöglichkeiten an.  
 
 -	Km 44.9 Start in Bad Karlshafen
 -	Km 44,7 links Mündung der Diemel, rechts Anlegemöglichkeit am Campingplatz - Gastronomie, WC
