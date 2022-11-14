@@ -6,7 +6,7 @@ wandertag: 3
 
 Die heutige Etappe startet von der Zeltwiese in Lippoldsberg und endet beim Kanuverein Wassersport Höxter. Unterwegs bieten sich viele Rast- und Besichtigungsmöglichkeiten an.  
 
--	Km 44.9 Start in Bad Karlshafen, sehenswerte Barockstadt
+-	Km 44.9 Start in Bad Karlshafen
 -	Km 44,7 links Mündung der Diemel, rechts Anlegemöglichkeit am Campingplatz - Gastronomie, WC
 -	Km 47,0 Herstelle links, rechts Anleger in Würgassen mit kleiner Personenfähre
 -	Km 49,0 rechts die Reste des AKW Würgassen
@@ -19,5 +19,5 @@ Die heutige Etappe startet von der Zeltwiese in Lippoldsberg und endet beim Kanu
 -	Km 68,0 rechts Höxter,Bootshaus von Wassersport Höxter
 -	Km 71,0 links Kloster Corvey, sehenswert, Anleger links hinter der Brücke
 -	Km 73,0 rechts Lüchtringen
--	Km 81,0 Strassenbrücke Holzminden, rechts dahinter am Steg des des Ruderclub Holzminden aussteigen, Boote über den ansteigenden Weg zum Vereinshaus transportieren, Bootswagen benutzen. 
+-	Km 81,0 Strassenbrücke Holzminden, rechts dahinter am Steg des des Ruderclub Holzminden aussteigen, Boote über den ansteigenden Weg zum Vereinshaus transportieren, Bootswagen benutzen.Ende der heutigen Etappe 
 
