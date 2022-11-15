@@ -4,7 +4,7 @@ nomenu: true
 wandertag: 60
 ---
 
-Die heutige Etappe startet am Kanu-Club Hameln und endet in Rinteln am Kanu-Club.
+????Die heutige Etappe startet am Kanu-Club Hameln und endet in Rinteln am Kanu-Club.
 
 - Km 134,3 Start der heutigen Etappe, nach der Eisenbahnbrücke links halten, Schleusen evtl. umtragen
 -	Km 139,5 rechts Wehrbergen
