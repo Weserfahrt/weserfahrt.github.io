@@ -4,16 +4,19 @@ nomenu: true
 wandertag: 6
 ---
 
-????Die heutige Etappe startet am Kanu-Club Hameln und endet in Rinteln am Kanu-Club.
+Die heutige Etappe startet in Rinteln am Kanu-Club und endet beim TV Jahn Minden.
 
-- Km 134,3 Start der heutigen Etappe, nach der Eisenbahnbrücke links halten, Schleusen evtl. umtragen
--	Km 139,5 rechts Wehrbergen
--	Km 146,5 links Fuhlen, rechts Hessisch Oldendorf
--	Km 151,9 Fähre kreuzt, rechts Großenwieden mit sehenswerter Kirche
--	Km 155,4 links Hohenrode
--	Km 156,9 rechts Kleinenwieden
--	Km 159,2 rechts Ahe
--	Km 161,9 rechts Engern
--	Km 163,0 rechts Rintelner Kanu-Club, am Schwimmsteg aussteigen. Ende der heutigen Etappe.
+-	Km 163,0 Start der heutigen Etappe
+-	Km 166,4 Einfahrt Doktorsee Campingplatz
+-	Km 167,7 rechts Eisbergen mit Windmühle
+-	Km 174,1 rechts Veltheim, Fähre kreuzt (nur am Wochenende)
+-	Km 181,0 rechts Borlefzen, Campingplatz Sonnenwiese und Gastronomie
+-	Km 183,5 links Vlotho, Gastronomie und Einkauf, Schwimmsteg
+-	Km 187,4 rechts Vössen, kleiner Campingplatz
+-	Km 189,8 links Rehme, Fähre kreuzt, Gastronomie: Altes Fährhaus
+-	Km 192,1 links Lohbusch, Bauern-Cafe´ mit Biergarten und Hofladen
+-	Km 197,0  Porta Westfalica mit Kaiser-Wilhelm-Denkmal links auf dem Wittekindberg
+-	Km 198,0 WSV Porta
+-	Km 203,5 rechts Kanu-Klub Minden, Ende der heutigen Etappe.
 
 
