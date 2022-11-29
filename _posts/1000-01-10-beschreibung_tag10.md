@@ -4,14 +4,10 @@ nomenu: true
 wandertag: 10
 ---
 
-Die heutige Etappe beginnt beim KC Landesbergen und endet beim WSV Hoya
-
--	Km 251,6 Wehranlage Landesbergen, 50 m oberhalb rechts Einfahrt Bootsgasse
--	Km 254,6 Kuriosität: es fehlen hier 2 km in der Fließstrecke (beim Bau des Wehres Landesbergen wurde ein Weserbogen abgeschnitten)
--	Km 252,5 Beginn der Staustrecke Drakenburg
--	Km 268,0 Kreisstadt Nienburg mit KC Nienburg im Schutzhafen rechts
--	Km 275,4 links Schleusenkanal Drakenburg, für uns mit Sondererlaubnis befahrbar
--	Km 277,8 Wehranlage Drakenburg – Schleusung! Unterhalb 2 Logger m. Aalhamen
--	Km 297,0 in 2 km Entfernung: Stiftskirche Bücken aus dem 12. Jahrhundert
--	Km 298,2 links hinter Deich WSV Hoya – Ende der heutigen Etappe.
+Die heutige Etappe beginnt in Hoya und endet in Achim.
+-	Km 308,3 rechts geht es in den Schleusenkanal der Wehranlage Dörverden. Es wird geschleust oder die Bootsschleppe benutzt.
+-	Km 326,4 links hinter der Ortschaft Ritzenbergen kommt von rechts die Aller in die Weser. Im Stauwasser der Aller kann nach 5 km aufwärts Verden erreicht werden.
+-	Km 329,4 Wehranlage Langwedel. Vor dem Wehr rechts anlegen, Bootsschleppe mit Gleiswagen (schwer zu ziehen), ab hier freie Fließstrecke bis Weserwehr Bremen-Hemelingen (Hastedt)
+-	Km 333,0 rechts Sportbootanlegestelle Hagen, WSV Drosselhof.
+-	Km 340,9 Straßenbrücke Uesen-Achim, gleich dahinter auf der linken Seite der WSV Achim-Thedinghausen.- Hier endet unsere heutige Etappe.
 
