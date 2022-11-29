@@ -3,12 +3,12 @@ title: Beschreibung Tag 11
 nomenu: true
 wandertag: 11
 ---
+Die heutige Etappe beginnt beim WSV Achim-Thedinghausen und endet bei den Bremer Kanu-Wanderern.
 
-Die heutige Etappe beginnt in Hoya und endet in Achim.
--	Km 308,3 rechts geht es in den Schleusenkanal der Wehranlage Dörverden. Es wird geschleust oder die Bootsschleppe benutzt.
--	Km 326,4 links hinter der Ortschaft Ritzenbergen kommt von rechts die Aller in die Weser. Im Stauwasser der Aller kann nach 5 km aufwärts Verden erreicht werden.
--	Km 329,4 Wehranlage Langwedel. Vor dem Wehr rechts anlegen, Bootsschleppe mit Gleiswagen (schwer zu ziehen), ab hier freie Fließstrecke bis Weserwehr Bremen-Hemelingen (Hastedt)
--	Km 333,0 rechts Sportbootanlegestelle Hagen, WSV Drosselhof.
--	Km 340,9 Straßenbrücke Uesen-Achim, gleich dahinter auf der linken Seite der WSV Achim-Thedinghausen.- Hier endet unsere heutige Etappe.
+-	Km 344,2 von links Zufluss der Eiter
+-	Km 357,2 rechts vor Brücke „Eisenbahnsportverein“
+-	KM 357.5  Einfahrt zum Autobahnsee und Landesteg von „Wiking Faltbootwanderer“ e.V. Kirchweyhe
+-	Km 362.0 Weserwehr Bremen-Hastedt  (Hemelingen). Zum Umtragen links vor der Schleusenkammner anlegen, Rampe. Schleusung möglich. Hier beginnt der Gezeitenstrom
+-	Km 363,7 rechts Bootshaus Bremer Kanu-Wanderer. 
 
-
+Hier endet unsere heutige Strecke und die „Mittelwese
