@@ -8,18 +8,13 @@ wandertag: 9
 
 ---
 
-Die heutige Etappe startet beim Kanu-Klub Minden und endet beim KC Landesbergen
+Die heutige Etappe beginnt beim KC Landesbergen und endet beim WSV Hoya
 
--	Km 203,5 hinter der Eisenbahnbrücke beginnt der Rückstau des Wehres in Petershagen
--	Km 204,9 Brücke des Mittellandkanals über die Weser (Länge 300 m, 13 m über der Weser)
--	Km 206,2 links „Nordabstieg“ 400m zur Schachtschleuse, reger Schiffsverkehr!
--	Km 214,0 Wehr Petershagen, rechts Bootsgasse
--	Km 215,6  Brücke Petershagen – Lahde, links Petershagen, historischer Stadtkern und Schloss der Mindener Bischöfe
--	Km 236,3 rechts Gut Hoppenberg. Von hier aus kürzeste Entfernung zum berühmten Kloster Loccum
--	Km 236,6 Wehr Schlüsselburg: links in den schmalen Boots-und Fischpasskanal, nach 50 m rechts Bootsschleppe
--	Km 242,5 links Stolzenau mit Kanu- und Segelklub Stolzenau
--	Km 249,3 rechts  KC Landesbergen -  Ende der heutigen Etappe
-
-
-
-
+-	Km 251,6 Wehranlage Landesbergen, 50 m oberhalb rechts Einfahrt Bootsgasse
+-	Km 254,6 Kuriosität: es fehlen hier 2 km in der Fließstrecke (beim Bau des Wehres Landesbergen wurde ein Weserbogen abgeschnitten)
+-	Km 252,5 Beginn der Staustrecke Drakenburg
+-	Km 268,0 Kreisstadt Nienburg mit KC Nienburg im Schutzhafen rechts
+-	Km 275,4 links Schleusenkanal Drakenburg, für uns mit Sondererlaubnis befahrbar
+-	Km 277,8 Wehranlage Drakenburg – Schleusung! Unterhalb 2 Logger m. Aalhamen
+-	Km 297,0 in 2 km Entfernung: Stiftskirche Bücken aus dem 12. Jahrhundert
+-	Km 298,2 links hinter Deich WSV Hoya – Ende der heutigen Etappe.
