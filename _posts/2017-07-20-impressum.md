@@ -9,7 +9,7 @@ DKV-Weg 19
 Ortsteil Mardorf
 
 
-Telefon: +49 (511) 2101199  
+Telefon: +49 (511) 10561269
 Telefax: +49 (511) 4584349  
 E-Mail: info@kanu-niedersachsen.de  
 Internet: www.kanu-niedersachsen.de
