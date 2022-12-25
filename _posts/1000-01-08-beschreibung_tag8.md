@@ -7,7 +7,7 @@ wandertag: 8
 Die heutige Etappe startet beim Kanu-Club Minden und endet beim KC Landesbergen
 
 -	km 203,5 hinter der Eisenbahnbrücke beginnt der Rückstau des Wehres in Petershagen
--	km 204,9 Brücke des Mittellandkanals über die Weser (Länge 300 m, 13 m über der Weser)
+-	km 204,9 Brücke des Mittellandkanals über die Weser
 -	km 206,2 links „Nordabstieg“ 400m zur Schachtschleuse, reger Schiffsverkehr!
 -	km 214,0 Wehr Petershagen, rechts Bootsgasse
 -	km 215,6  Brücke Petershagen – Lahde, links Petershagen, historischer Stadtkern und Schloss der Mindener Bischöfe
