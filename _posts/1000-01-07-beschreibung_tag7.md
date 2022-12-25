@@ -5,4 +5,4 @@ wandertag: 7
 
 ---
 
-Ruhetag beim TV Jahn Minden.
+Ruhetag beim Kanu-Club Minden.
