@@ -4,7 +4,7 @@ nomenu: true
 wandertag: 8
 ---
 
-Die heutige Etappe startet beim Kanu- Club Minden und endet beim KC Landesbergen
+Die heutige Etappe startet beim Kanu-Club Minden und endet beim KC Landesbergen
 
 -	Km 203,5 hinter der Eisenbahnbrücke beginnt der Rückstau des Wehres in Petershagen
 -	Km 204,9 Brücke des Mittellandkanals über die Weser (Länge 300 m, 13 m über der Weser)
