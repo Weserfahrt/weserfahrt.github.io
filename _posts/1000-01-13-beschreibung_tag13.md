@@ -15,7 +15,7 @@ Die heutige Etappe beginnt bei den Bremer Kanu-Wanderern und endet beim KC Rönn
 -	km 7,8 bis Km 11,0 diverse Häfen rechts und links
 -	km 11,5 Sporthafen Hasenbüren (einige Wassersportvereine) Anlegemöglichkeit
 -	km 14,2 links Zufluss der Ochtum
--	km 17,2 rechts Zufluss Lesum, rechts Vegesacker Hafen (1. Künstlich angelegter Hafen Europas)
+-	km 17,2 rechts Zufluss Lesum, rechts Vegesacker Hafen (1. künstlich angelegter Hafen Europas)
 -	km 17,6 rechts Vegesack, 2 Wagenfähren! Ab hier Nebenfahrwasser 2,5 km links fahren
 -	km 18,5 Aumund, Fähre
 -	km 19,0 ehemalige Bremer Vulkan-Werft
