@@ -4,7 +4,7 @@ nomenu: true
 wandertag: 6
 ---
 
-Die heutige Etappe startet in Rinteln am Kanu-Club und endet beim TV Jahn Minden.
+Die heutige Etappe startet in Rinteln am Kanu-Club und endet beim Kanu-Club Minden.
 
 -	km 163,0 Start der heutigen Etappe
 -	km 166,4 Einfahrt Doktorsee Campingplatz
@@ -19,6 +19,6 @@ Die heutige Etappe startet in Rinteln am Kanu-Club und endet beim TV Jahn Minden
 -	km 198,0 rechts WSV Porta
 - km 199,8 Eisenbahnbrücke 
 - km 203,2 Straßenbrücke Minden , danach:	
--	km 203,5 rechts TV Jahn Minden, Ende der heutigen Etappe.
+-	km 203,5 rechts Kanu-Club Minden, Ende der heutigen Etappe.
 
 
