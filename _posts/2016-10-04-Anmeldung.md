@@ -2,6 +2,8 @@
 title: "Anmeldung"
 background: bg2.jpg
 ---
+Die maximale Teilnehmerzahl ist erreicht. Es besteht eine Warteliste.
+
 Hier können Sie das Anmeldeformular herunterladen und direkt am PC ausfüllen.
 
 
