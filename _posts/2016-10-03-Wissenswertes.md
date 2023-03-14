@@ -16,3 +16,5 @@ An Wochenenden herrscht oftmals reger Sportbootbetrieb, besonders  auf den ausge
 
 Auf der Unterweser ist zu beachten, dass der Schiffsverkehr zunimmt und dadurch mit erhöhter Wellenbildung zu rechnen ist. Die Ufer sind bei Niedrigwasser oft verschlickt oder sie haben Spundwände, was zu einer Reflektion der Wellen führt. Zu den Tonnen sollte man genügend Abstand halten, weil sich der Gezeitenstrom im Bereich der Tonne besonders auswirkt.
 
+Text: Elisabeth Thielbörger
+
