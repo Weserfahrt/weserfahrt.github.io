@@ -2,7 +2,7 @@
 title: "Anmeldung"
 background: bg2.jpg
 ---
-Die maximale Teilnehmerzahl ist erreicht. Es besteht eine Warteliste.
+Die Fahrt 2023 ist ausgebucht. Derzeit keine Anmeldung möglich
 
 Hier können Sie das Anmeldeformular herunterladen und direkt am PC ausfüllen.
 
