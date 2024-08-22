@@ -5,6 +5,7 @@ background: bg2.jpg
 Die nächste Fahrt findet 2025 statt.
 
 Hier können Sie das Anmeldeformular herunterladen und direkt am PC ausfüllen.
+
 Die Anmeldung ist erst ab November 2024 möglich.
 
 
