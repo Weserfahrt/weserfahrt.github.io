@@ -2,12 +2,8 @@
 title: "Anmeldung"
 background: bg2.jpg
 ---
-Die nächste Fahrt findet 2025 statt.
 
 Hier können Sie das Anmeldeformular herunterladen und direkt am PC ausfüllen.
-
-Die Anmeldung ist erst ab November 2024 möglich.
-
 
 <a href="assets/images/IWF_Anmeldeformular_2023.pd" class="btn btn-outline-inverse btn-sm">2025</a>
 
