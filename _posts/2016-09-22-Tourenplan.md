@@ -7,5 +7,4 @@ Um die PDF-Dateien zu öffnen, benötigen Sie das Zusatzprogramm Adobe Acrobat R
 
 <a href="assets/images/IWF_Tourenplan_2025.pdf
 " class="btn btn-outline-inverse btn-sm">zum Tourenplan</a>
-<a href="assets/images/Tourenplan_2023.pdf" class="btn btn-outline-inverse btn-sm">Tourenplanourenplan_2025.pdf</a>
 
