@@ -4,9 +4,12 @@ nomenu: true
 wandertag: 3
 ---
 
-Die heutige Etappe startet vom Campingplatz Karlshafen und endet beim Kanu-Klub Holzminden. Unterwegs bieten sich viele Rast- und Besichtigungsmöglichkeiten an.  
-
--	km 44.9 Start in Bad Karlshafen
+Die heutige Etappe startet vom Campingplatz in Oedelsheim und endet beim Wassersport Höxter. Unterwegs bieten sich viele Rast- und Besichtigungsmöglichkeiten an.  
+-  km 28,0 links Gieselwerder. 
+-  km 31,7 rechts Lippoldsberg. 
+-  km 32,8 rechts Bodenfelde. 
+-  km 35,8 rechts Wahmbeck, kleiner Ort mit Fährbetrieb 
+-  km 35,8 links Gewissenruh, Rastplatz neben dem Fähranleger 
 -	km 44,7 links Mündung der Diemel, rechts Anlegemöglichkeit am Campingplatz - Gastronomie, WC
 -	km 47,0 Herstelle links, rechts Anleger in Würgassen mit kleiner Personenfähre
 -	km 49,0 rechts die Reste des AKW Würgassen
@@ -16,8 +19,4 @@ Die heutige Etappe startet vom Campingplatz Karlshafen und endet beim Kanu-Klub 
 -	km 60,2 links Wehrden mit Fußgänger-und Fahrradfähre, Anleger, Rastplatz, Schloss
 -	km 63,2 rechts Fürstenberg, oberhalb Schloss Fürstenberg mit Porzellanmanufaktur
 - km 65,5 rechts Boffzen
--	km 68,0 rechts Höxter,Bootshaus von Wassersport Höxter
--	km 71,0 links Kloster Corvey, sehenswert, Anleger links hinter der Brücke
--	km 73,0 rechts Lüchtringen
--	km 80,2 Strassenbrücke Holzminden, links am Steg des Kanu-Klub Holzminden aussteigen. Ende der heutigen Etappe 
-
+-	km 68,0 rechts Höxter,Bootshaus von Wassersport Höxter, am Steg aussteigen. Ende der heutigen Etappe 
