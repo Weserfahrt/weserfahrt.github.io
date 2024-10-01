@@ -6,7 +6,9 @@ background: bg3.jpg
 #### Landes-Kanu-Verband Niedersachsen e.V.
 
 Rosenbuschweg 9 B
+
 30453 Hannover
+
 OT Ahlem
 
 Telefon: +49 (511) 10561269
