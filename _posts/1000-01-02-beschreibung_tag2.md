@@ -10,11 +10,11 @@ Am ersten Paddeltag starten wir gemeinsam vom Gelände des Mündener Kanu-Clubs 
 -	km 2,2 rechts Anleger Gimte, im Ort sehenswert: die Marienkirche
 -	km 3,5 links ehemaliges Klostergut Hilkwartshausen und der hessische Reinhardswald, rechts der niedersächsische Bramwald
 -	km 10,0 links Reinhardshagen
--	km 11,3 rechts Hemeln, Achtung Seilfähre, 
+-	km 11,3 rechts Hemeln, Achtung Seilfähre 
 -	km 12,8 rechts Weser-Camping Hemeln, Bistro, Anlegen auf Slipanlage
--	km 16,0 rechts das Dorf Glashütte.
+-	km 16,0 rechts das Dorf Glashütte
 -	km 18,7 rechts Bursfelde, am Schwimmsteg anlegen, Gastronomie mit Biergarten, Stiftskirche des Klosters kann besichtigt werden
 -	Km 22,2 links Weißehütte mit Campingplatz und Gastronomie
--	km 25,0 rechts Oedelsheim, Achtung Seilfähre.
--	km 25,2 rechts Camping Oedelsheim mit Gastronomie,hier am Steg aussteigen. Ende der heutigen Etappe. 
+-	km 25,0 rechts Oedelsheim, Achtung Seilfähre
+-	km 25,2 rechts Camping Oedelsheim mit Gastronomie,hier am Steg aussteigen. Ende der heutigen Etappe 
  
