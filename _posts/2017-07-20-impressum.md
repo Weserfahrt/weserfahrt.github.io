@@ -16,7 +16,7 @@ Internet: www.kanu-niedersachsen.de
 
 ###### Vertreten durch:
 
-Dr. Albert Emmerich (Anschrift s.o.)
+Christian Wulf (Anschrift s.o.)
 
 ###### Registereintrag:
 
@@ -27,9 +27,9 @@ Registernummer: VR 3370
 
 Gerd Bode (Anschrift s.o.)
 
-###### Technische Realisation:
 
-Mathias Göbel (Anschrift s.o.)
+
+
 
 
 
