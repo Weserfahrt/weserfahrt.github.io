@@ -5,9 +5,9 @@ background: bg3.jpg
 
 #### Landes-Kanu-Verband Niedersachsen e.V.
 
-Telefon: +49 (511) 10561269
-Telefax: +49 (511) 4584349  
-E-Mail: info@kanu-niedersachsen.de  
+Rosenbuschweg 9 B 
+30453 Hannover 
+OT Ahlem 
 
 
 
