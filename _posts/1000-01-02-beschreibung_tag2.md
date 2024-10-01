@@ -6,7 +6,7 @@ wandertag: 2
 
 Am ersten Paddeltag starten wir gemeinsam vom Gelände des Mündener Kanu-Clubs auf der Fulda. Dann fahren wir nach ca. 1 km in die Schleuse ein (Bootsrutsche nicht empfehlenswert).  Die ersten Meter paddeln wir dann noch auf der Fulda, bevor es unterhalb des Wesersteins am Zusammenfluss von Werra und Fulda links bei km 0 in die Weser geht.
 
--	km 1,2 links Jugendherberge Hann Münden
+-	km 1,2 links Jugendherberge Hann. Münden
 -	km 2,2 rechts Anleger Gimte, im Ort sehenswert: die Marienkirche
 -	km 3,5 links ehemaliges Klostergut Hilkwartshausen und der hessische Reinhardswald, rechts der niedersächsische Bramwald
 -	km 10,0 links Reinhardshagen
