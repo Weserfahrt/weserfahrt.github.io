@@ -16,5 +16,5 @@ Am ersten Paddeltag starten wir gemeinsam vom Gelände des Mündener Kanu-Clubs 
 -	km 18,7 rechts Bursfelde, am Schwimmsteg anlegen, Gastronomie mit Biergarten, Stiftskirche des Klosters kann besichtigt werden
 -	Km 22,2 links Weißehütte mit Campingplatz und Gastronomie
 -	km 25,0 rechts Oedelsheim, Achtung Seilfähre.
--	km 25,2 rechts Camping Oedelsheim mit Gastronomie,hier am Steg aussteigen.Ende der heutigen Etappe. 
+-	km 25,2 rechts Camping Oedelsheim mit Gastronomie,hier am Steg aussteigen. Ende der heutigen Etappe. 
  
