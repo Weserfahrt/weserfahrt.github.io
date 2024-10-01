@@ -3,9 +3,11 @@ title: Beschreibung Tag 4
 nomenu: true
 Wandertag: 4
 ---
-Die heutige Etappe startet beim Kanu-Klub Holzminden und endet am Ruderverein Bodenwerder.
+Die heutige Etappe startet beim Wassersport Höxter und endet am Ruderverein Bodenwerder.
 
-
+-	km 71,0 links Kloster Corvey, sehenswert, Anleger links hinter der Brücke
+-	km 73,0 rechts Lüchtringen
+-	km 80,2 Strassenbrücke Holzminden, links am Steg des Kanu-Klub Holzminden aussteigen. Ende der heutigen Etappe.
 -	km 80,2 Start in Holzminden
 -	km 89,8 Fähre Heinsen kreuzt, links Ortschaft mit Kaffeegarten
 -	km 92,1 Fähre bei Polle kreuzt
