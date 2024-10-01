@@ -5,7 +5,7 @@ background: bg3.jpg
 
 #### Landes-Kanu-Verband Niedersachsen e.V.
 
-Rosenbuschweg 9 B    30453 Hannover 
+Rosenbuschweg 9 B,    30453 Hannover 
 
 
 Telefon: +49 (511) 10561269
