@@ -7,8 +7,7 @@ Die heutige Etappe startet beim Wassersport Höxter und endet am Ruderverein Bod
 
 -	km 71,0 links Kloster Corvey, sehenswert, Anleger links hinter der Brücke
 -	km 73,0 rechts Lüchtringen
--	km 80,2 Strassenbrücke Holzminden, links am Steg des Kanu-Klub Holzminden aussteigen. Ende der heutigen Etappe.
--	km 80,2 Start in Holzminden
+-	km 80,2 Strassenbrücke Holzminden
 -	km 89,8 Fähre Heinsen kreuzt, links Ortschaft mit Kaffeegarten
 -	km 92,1 Fähre bei Polle kreuzt
 -	km 92,5 links Polle, Schwimmstege vor oder am des Campingplatzes anlegen, Strömung!  Gastronomie Einkaufsmöglichkeiten wenige Meter vom Anleger entfernt, Burgruine Polle, angeblich Wohnsitz von Aschenputtel, schöner Blick über das Wesertal
