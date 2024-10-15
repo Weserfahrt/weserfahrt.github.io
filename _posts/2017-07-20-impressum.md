@@ -8,8 +8,7 @@ background: bg3.jpg
 Rosenbuschweg 9 B,    30453 Hannover 
 
 
-Telefon: +49 (511) 10561269
-Telefax: +49 (511) 4584349  
+Telefon: +49 (511) 10561269 
 E-Mail: info@kanu-niedersachsen.de  
 Internet: www.kanu-niedersachsen.de
 
