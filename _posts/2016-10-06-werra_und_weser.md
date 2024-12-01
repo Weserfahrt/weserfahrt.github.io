@@ -1,5 +1,7 @@
 ---
-title: "Werra und Weser Tour"
+title: "
+
+Werra und Weser von ihrer schönsten Seite"
 background: bg4.jpg
 ---
 
