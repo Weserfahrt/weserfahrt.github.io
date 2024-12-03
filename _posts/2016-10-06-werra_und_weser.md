@@ -2,7 +2,7 @@
 title: "
 
 Werra und Weser von ihrer schönsten Seite"
-background: bg4.jpg
+background: Weserstein.jpg
 ---
 
 
