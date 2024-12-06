@@ -1,7 +1,5 @@
 ---
-title: "
-
-Werra und Weser von ihrer schönsten Seite"
+title: "Werra und Weser"
 background: Weserstein.jpg
 ---
 
