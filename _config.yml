@@ -5,7 +5,7 @@ description: >
   in the Internationale Weserfahrt: 425km adventure
   from Hann - Münden to Nordenham.
 baseurl: ""
-url: http://www.international-weserfahrt.de
+url: http://www.internationale-weserfahrt.de
 github_username:  weserfahrt
 
 # Build settings
